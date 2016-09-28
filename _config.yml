@@ -1,6 +1,6 @@
 name: Bik Lab @ UC Riverside
 description: We examine deep-sea microbiol eukaryotes and their structurally and functional composition in natural habitats.   
-url: http://tarunaaggarwal.github.io
+url: http://biklab.github.io
 
 markdown: kramdown
 permalink: /:categories/:title/

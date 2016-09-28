@@ -1,0 +1,669 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Supernatant/pellet fractionation of budding yeast cells by cryogenic lysis</title>
+    
+    <meta name="author" content="Holly Bik">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Bootstrap styles -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+    <!-- Optional theme -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet"/>
+    <!-- Sticky Footer -->
+    <link href="/assets/themes/lab/bootstrap/css/bs-sticky-footer.css" rel="stylesheet"/>
+    
+    <!-- Custom styles -->
+    <link href="/assets/themes/lab/css/style.css?body=1" rel="stylesheet" type="text/css" media="all"/>
+
+    <!-- icon -->
+    <link rel="shortcut icon" href="/assets/themes/lab/images/logo/favicon.ico"/>
+
+    <!-- Custom fonts and icons via Font Awesome, http://fortawesome.github.io/Font-Awesome/ -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
+
+    <!-- Fonts via Google -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700' rel='stylesheet' type='text/css'/>
+
+    <!-- Math via MathJax -->
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <!-- Update these with your own images
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    -->
+
+    <!-- atom & rss feed
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+    -->
+
+  </head>
+
+  <body>
+
+  <!-- Static top navbar -->
+
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class='container'>
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="/">
+        <img class="pull-left logo" src="/assets/themes/lab/images/logo/lab-logo.svg" type="image/svg+xml">
+        </a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-navbar-collapse">
+        <ul class="nav navbar-nav navbar-left hidden-sm">
+          <!-- Don't put site title on home page -- there's already a big title there. -->
+          
+          
+          
+          <a class="navbar-brand" href="/">Bik Lab @ UC Riverside</a>
+          
+        </ul>
+        <ul class="nav navbar-nav navbar-right pull-right">
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/projects/">Research</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/team/">Team</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/papers/">Papers</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/blog/">Blog</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+
+          <li class="dropdown nav navbar-nav">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+              More <span class="caret"></span>
+            </a>
+
+            <ul class="dropdown-menu nav navbar-nav" role="menu">
+              
+              
+              
+
+
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/protocols/">Protocols</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/news/">News</a></li>
+      	
+      
+    
+  
+
+
+
+            </ul>
+            </li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </nav>
+   </div>
+
+   <!-- Content -->
+   <div class="container">
+      
+<div class="page-header">
+  <h1>Supernatant/pellet fractionation of budding yeast cells by cryogenic lysis </h1>
+</div>
+
+<div class="row post-full">
+  <div class="col-xs-12">
+    <div class="date">
+      <span>23 July 2015</span>
+    </div>
+    <div class="content">
+      
+<p>For studies of protein aggregation, few techniques are simpler than two-phase fractionation by centrifugation: big stuff (aggregates) pellets, small stuff (unaggregated proteins) stays in the supernatant. Breaking open cells (lysis) can alter or even cause protein aggregation. For yeast cells, which have a tough cell wall, lysis requires a lot of force. We and others find that cryogenic milling does a good job in lysing most cells without causing aggregation.</p>
+
+<p>With minor adaptations, we have applied the same lysis/fractionation to E. coli, cyanobacteria, mammalian cell culture, squid axoplasm, and alternative yeasts. Appearance of membrane proteins in the pellet and cytoplasmic proteins the sup is a good quality control for unstressed samples.</p>
+
+<p>Based on Mike Dion and Allan Drummond’s 2011 protocols, with extensive modiﬁcations by Edward Wallace with help from Quincey Justman.</p>
+
+<h1 id="protocol">Protocol</h1>
+
+<h3 id="prepare">Prepare</h3>
+
+<ul>
+  <li>soluble protein buﬀer (SPB; 20mM HEPES-KOH pH7.4, 120mM KCl, 2mM
+EDTA, 0.2mM DTT, 1:100 PMSF, 1:100 protease inhibitors cocktail IV).
+Make stock of salt and buﬀer, add DTT and inhibitors shortly before
+use, and chill.</li>
+  <li>total protein buﬀer (TPB; 20mM HEPES-NaOH pH7.4, 150mM NaCl, 5mM
+EDTA, 3% SDS, 1:100 PMSF, 2mM DTT, 1:1000 protease inhibitors IV).</li>
+  <li>
+    <p>insoluble protein buﬀer (IPB; 8M Urea, 20mM HEPES-NaOH pH7.4, 150mM
+NaCl, 2% SDS, 2mM EDTA, 2mM DTT, 1:100 PMSF, 1:1000 protease
+inhibitors IV.). Mix fresh daily the urea, DTT, and inhibitors (use a stock solution of other ingredients) and keep at room temperature.
+Use 250 μL IPB per sample, and note that Urea is slow to
+dissolve, and foaming will make ~25% of the solution unusable.
+IPB solidiﬁes at 4°C due to urea and SDS; also, don’t
+substitute KCl as it precipitates SDS even at RT.</p>
+
+    <table>
+      <thead>
+        <tr>
+          <th style="text-align: center">2 mL (~4 samples)</th>
+          <th style="text-align: center">13 mL (~20 samples)</th>
+          <th style="text-align: center"> </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="text-align: center">950 μL</td>
+          <td style="text-align: center">6.2  mL</td>
+          <td style="text-align: center">H2O</td>
+        </tr>
+        <tr>
+          <td style="text-align: center">200 μL</td>
+          <td style="text-align: center">1.3  mL</td>
+          <td style="text-align: center">20% SDS (w/v)</td>
+        </tr>
+        <tr>
+          <td style="text-align: center">40 μL</td>
+          <td style="text-align: center">260 μL</td>
+          <td style="text-align: center">1M HEPES-NaOH pH7.4</td>
+        </tr>
+        <tr>
+          <td style="text-align: center">8 μL</td>
+          <td style="text-align: center">52 μL</td>
+          <td style="text-align: center">0.5M EDTA</td>
+        </tr>
+        <tr>
+          <td style="text-align: center">75 μL</td>
+          <td style="text-align: center">390 μL</td>
+          <td style="text-align: center">5M NaCl</td>
+        </tr>
+        <tr>
+          <td style="text-align: center">20 μL</td>
+          <td style="text-align: center">130 μL</td>
+          <td style="text-align: center">100mM PMSF</td>
+        </tr>
+        <tr>
+          <td style="text-align: center">4 μL</td>
+          <td style="text-align: center">26 μL</td>
+          <td style="text-align: center">1M DTT</td>
+        </tr>
+        <tr>
+          <td style="text-align: center">2 μL</td>
+          <td style="text-align: center">13 μL</td>
+          <td style="text-align: center">protease inhibitors IV</td>
+        </tr>
+        <tr>
+          <td style="text-align: center">0.96g</td>
+          <td style="text-align: center">6.24g</td>
+          <td style="text-align: center">urea</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>For heat treatment, pre-warm water bath to 46°C or pre-warm
+media as required.</li>
+  <li>Appropriate numbers of safe-lok tubes loaded with 7mm steel balls,
+racked in liquid nitrogen (LN2).</li>
+  <li>Pre-chill a centrifuge, also label and lay out all tubes and
+equipment in advance as the protocol moves very quickly
+once started.</li>
+  <li>
+    <p>Protocol can be paused and samples stored at -80°C when cells
+have been ﬂash-frozen (step <a href="#step-flashfreeze">8</a>), and after cells have
+been ground in mixer mill (step <a href="#step-powder">11</a>).</p>
+
+    <h3 id="sample-growth">Sample Growth</h3>
+  </li>
+</ul>
+
+<ol>
+  <li>
+    <p>For each strain, inoculate a 3  mL pre-culture of SC-complete medium
+with a single yeast colony and incubate overnight at 30with shaking
+or rotation.</p>
+  </li>
+  <li>
+    <p>Inoculate overnight culture to OD<sub>600</sub> ~ 0.01 in
+SC-complete medium in a baffled flask, grow to 4×10<sup>6</sup>
+cells/ mL (OD<sub>600</sub> ~ 0.45) at 30°C with 200rpm shaking.</p>
+
+    <h3 id="sample-harvesting-and-lysis">Sample Harvesting and Lysis</h3>
+  </li>
+  <li>
+    <p>Transfer 2×10<sup>8</sup> cells to a 50 mL conical tube (50  mL of a
+4×10<sup>6</sup> cells/ mL culture).</p>
+  </li>
+  <li>
+    <p>Spin at 2500 g for 30s in a swinging bucket rotor at RT. The end of
+this spin marks the start of the timed treatment duration. Gently
+decant and discard supernatant. For heat shock treatment, hold tube
+containing pellet in waterbath at desired temperature for desired
+time; alternatively, transfer to pre-warmed media for desired time
+and end by spinning as described.</p>
+  </li>
+  <li>
+    <p>Resuspend pellet in 1 mL ice-cold SPB, on ice, and transfer to pre-chilled
+1.5 mL tube.</p>
+  </li>
+  <li>
+    <p>Spin at 5,000 g, 4°C, for 30 seconds.</p>
+  </li>
+  <li>
+    <p>Resuspend new pellet in 150 μL lysis buffer.</p>
+  </li>
+  <li>
+    <p><a name="step-flashfreeze"></a> 
+Drip 100 μL of resuspended pellet onto upper
+wall of tube containing steel ball, still racked in LN2. Goal is to
+get a nugget of frozen material on the wall, and to avoid dripping
+the material around the ball and thus freezing the ball to the
+bottom of the tube; having some LN2 remaining in the tube helps.
+Place the remaining 100 μL of resuspended pellet in a tube for total
+protein extraction: process, or freeze, immediately.</p>
+  </li>
+  <li>
+    <p>Place tubes at -80°C; when all LN2 has boiled out of tube (listen – if
+any popping or hissing, keep waiting), snap tube closed caref μLly,
+away from other tubes. Keep at -80°C or lower. (Any remaining LN2 in tube will cause tube to explode open and fire the stainless steel ball into
+your iPad, brain, colleague, or other important equipment.)</p>
+  </li>
+  <li>
+    <p>Rack the tube into the PTFE 2 mL tube adaptor for the Retsch Mixer
+Mill MM400 (Retsch #22.008.0005) and submerge the entire assembly
+in LN2. Agitate for 4x90 seconds at 30 Hz in a Retsch Mixer
+Mill MM400, returning sample holder to LN2 between sessions.
+Complete lysis produces fine snowy powder in the tube.</p>
+  </li>
+  <li>
+    <p><a name="step-powder"></a> 
+Remove sample tubes from LN2, tap on bench to
+release powder from lid, and pop the caps to relieve pressure.</p>
+  </li>
+  <li>
+    <p>Add 400 μL SPB to each tube, thaw on ice with
+occasional vortexing, and as soon as possible extract ball with
+a magnet. (We rinse balls in methanol and store in 50% ethanol.)</p>
+
+    <h3 id="supernatant-fraction-extraction">Supernatant fraction extraction</h3>
+  </li>
+  <li>
+    <p>Spin at 3000 g for 30 seconds (clarification step) to remove whole
+cells and very large aggregates.</p>
+  </li>
+  <li>
+    <p>Decant clarified liquid into a 1.5 mL microcentrifuge tube. If
+troubleshooting, keep the 3,000g pellet and process it alongside the
+insoluble fraction; this end product is the <em>unclarified fraction</em>.</p>
+  </li>
+  <li>
+    <p>Spin at 100,000 g for 20 minutes (fixed-angle TLA-55 rotor at 40,309
+rpm, 4, in a Beckman Coulter Optimax tabletop  ultracentrifuge).</p>
+  </li>
+  <li>
+    <p>Decant supernatant into a 1.5 mL microcentrifuge tube: this is the
+<em>Supernatant fraction</em>.</p>
+  </li>
+  <li>
+    <p>Take 10 μL aliquot of soluble fraction and mix with 2X Laemmli
+buffer; use this to run a protein gel and assess protein integrity.</p>
+
+    <h3 id="pellet-fraction-extraction">Pellet fraction extraction</h3>
+  </li>
+  <li>
+    <p>Violently snap pellet to clear remaining liquid.</p>
+  </li>
+  <li>
+    <p>Add 500 μL soluble protein buffer (SPB) and vortex.
+(The pellet may not resuspend; that’s fine.)</p>
+  </li>
+  <li>
+    <p>Spin at 100,000 g for 20 minutes.</p>
+  </li>
+  <li>
+    <p>Discard supernatant, clear residual liquid with a hard snap.</p>
+  </li>
+  <li>
+    <p>Add 250 μL insoluble protein buffer (IPB); note this
+means insoluble sample is relatively 2X concentrated to others.
+Process samples in IPB at room temperature to maintain solubility of
+the Urea.</p>
+  </li>
+  <li>
+    <p>Dislodge the pellet with a pipet tip, Vortex until pellet dissolves,
+10-15 minutes for clarified samples.</p>
+  </li>
+  <li>
+    <p>Spin at 20,000 g, RT, for 5 minutes.</p>
+  </li>
+  <li>
+    <p>Decant supernatant into a 1.5 mL microcentrifuge tube: this is the
+<em>Pellet fraction</em>.</p>
+
+    <h3 id="total-protein-extraction">Total protein extraction</h3>
+  </li>
+  <li>
+    <p>Add 400 μL TPB to each total protein tube. Incubate
+at 95°C with 500rpm mixing for 20 min.</p>
+  </li>
+  <li>
+    <p>Vortex vigorously for 15 min.</p>
+  </li>
+  <li>
+    <p>Spin at 6000 g, RT, 1 min. Take supernatant; this is the <em>Total
+protein fraction</em>.</p>
+
+    <h3 id="measure-protein">Measure protein</h3>
+  </li>
+  <li>
+    <p>Run a 4-15% SDS-page gel; load roughly 5-10 μL of
+total and soluble fractions. Make aliquots for further analysis.</p>
+  </li>
+  <li>
+    <p>For more information, western blot against known stress-aggregating proteins (e.g. Pab1).</p>
+  </li>
+  <li>
+    <p>Chloroform-methanol extract protein from each fraction for mass spectrometry analysis. We use reductive dimethylation following tryptic digestion for post-sample-collection isotopic labeling.</p>
+  </li>
+</ol>
+
+
+    </div>
+
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-open"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/categories.html#protocols-ref">
+    		protocols <span>6</span>
+    	</a></li>
+     
+    	<li><a href="/categories.html#protocol-ref">
+    		protocol <span>6</span>
+    	</a></li>
+    
+  
+
+
+    </ul>
+    
+
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-tags"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/tags.html#yeast-ref">yeast <span>19</span></a></li>
+     
+    	<li><a href="/tags.html#aggregation-ref">aggregation <span>10</span></a></li>
+     
+    	<li><a href="/tags.html#biochemistry-ref">biochemistry <span>1</span></a></li>
+    
+  
+
+
+
+    </ul>
+    
+  
+    <hr>
+    <ul class="pagination">
+    
+      <li class="prev"><a href="/data/postheat-disaggregation-yeast-visualization" title="Disaggregation assay data visualization">&laquo; Previous</a></li>
+    
+      <li><a href="/archive.html">Archive</a></li>
+    
+      <li class="next"><a href="/papers/paper/endogenous-aggregates" title="Reversible, specific, active aggregates of endogenous proteins assemble upon heat stress">Next &raquo;</a></li>
+    
+    </ul>
+    <hr>
+    
+  </div>
+</div>
+
+
+   </div>
+
+
+  <!-- Static bottom navbar -->
+  <nav class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-bottom-collapse"> <!-- NOTE! data-target was changed to jb-bottom-collapse -->
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-bottom-collapse">
+        <ul class="nav navbar-nav navbar-left navbar-small">
+          <li><a href=http://nematology.ucr.edu/>Nematology</a></li>
+          <li><a href=http://www.ucr.edu>The University of California, Riverside</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right navbar-small">
+          <li><a href='/about.html#purpose'>About</a></li>
+          <li><a href='/about.html#join'>Join</a></li>
+          <li><a href='/about.html#contact'>Contact</a></li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div>
+  </nav>
+ 
+
+
+    
+
+
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-62008526-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+
+    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="/assets/themes/lab/bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
+

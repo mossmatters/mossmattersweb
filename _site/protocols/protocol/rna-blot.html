@@ -1,0 +1,683 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Anti-RNA blotting with chemiluminescent detection</title>
+    
+    <meta name="author" content="Holly Bik">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Bootstrap styles -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+    <!-- Optional theme -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet"/>
+    <!-- Sticky Footer -->
+    <link href="/assets/themes/lab/bootstrap/css/bs-sticky-footer.css" rel="stylesheet"/>
+    
+    <!-- Custom styles -->
+    <link href="/assets/themes/lab/css/style.css?body=1" rel="stylesheet" type="text/css" media="all"/>
+
+    <!-- icon -->
+    <link rel="shortcut icon" href="/assets/themes/lab/images/logo/favicon.ico"/>
+
+    <!-- Custom fonts and icons via Font Awesome, http://fortawesome.github.io/Font-Awesome/ -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
+
+    <!-- Fonts via Google -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700' rel='stylesheet' type='text/css'/>
+
+    <!-- Math via MathJax -->
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <!-- Update these with your own images
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    -->
+
+    <!-- atom & rss feed
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+    -->
+
+  </head>
+
+  <body>
+
+  <!-- Static top navbar -->
+
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class='container'>
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="/">
+        <img class="pull-left logo" src="/assets/themes/lab/images/logo/lab-logo.svg" type="image/svg+xml">
+        </a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-navbar-collapse">
+        <ul class="nav navbar-nav navbar-left hidden-sm">
+          <!-- Don't put site title on home page -- there's already a big title there. -->
+          
+          
+          
+          <a class="navbar-brand" href="/">Bik Lab @ UC Riverside</a>
+          
+        </ul>
+        <ul class="nav navbar-nav navbar-right pull-right">
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/projects/">Research</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/team/">Team</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/papers/">Papers</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/blog/">Blog</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+
+          <li class="dropdown nav navbar-nav">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+              More <span class="caret"></span>
+            </a>
+
+            <ul class="dropdown-menu nav navbar-nav" role="menu">
+              
+              
+              
+
+
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/protocols/">Protocols</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/news/">News</a></li>
+      	
+      
+    
+  
+
+
+
+            </ul>
+            </li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </nav>
+   </div>
+
+   <!-- Content -->
+   <div class="container">
+      
+<div class="page-header">
+  <h1>Anti-RNA blotting with chemiluminescent detection </h1>
+</div>
+
+<div class="row post-full">
+  <div class="col-xs-12">
+    <div class="date">
+      <span>30 October 2015</span>
+    </div>
+    <div class="content">
+      
+<p>This protocol is for northern blotting/dot-blotting to detect specific
+RNAs via chemiluminescence, using biotinylated DNA oligo probes. Gels etc
+are optimized for detection of 0.5-4kb mRNA transcripts.</p>
+
+<p>Much of it is adapted from ULTRAhyb-Oligo and Brightstar BioDetect
+commercial protocols, or from <em>Nonisotopic Probing, Blotting, and
+Sequencing</em> (Kricka, ed; chapter 5).</p>
+
+<p>For abundant RNAs, it is possible to reduce the lengths of the (many) 
+hybridization, wash and block steps while still obtaining a clean blot 
+with low background - test probes and sample the slow way first.</p>
+
+<h2 id="ingredients">Ingredients</h2>
+
+<ul>
+  <li>
+    <p>1X TBE, 0.5X TBE. Make from 10X stock.</p>
+  </li>
+  <li>
+    <p>RNase-free agarose</p>
+  </li>
+  <li>
+    <p>Gel casting, running and electroblotting equipment (BioRad Minigel system,
+Biorad Criterion or Protean blotter)</p>
+  </li>
+  <li>
+    <p>RNA ladders: ThermoFisher RiboRuler HR (#SM1821) is good for 200-6000nt mRNAs.
+DynaMarker® Prestain Marker for RNA High (Biodynamics #DM260) is a prestained
+ladder made of polysaccharides useful for seeing the gel run and or successful 
+membrane transfer, but it runs larger than advertised length on TBE-agarose gels.</p>
+  </li>
+  <li>
+    <p>Positively charged nylon membrane (BrightStar-Plus Positively
+Charged Nylon Membrane, or Roche 11-209-299-001, or Bio-Rad Zeta-Probe #1620154)</p>
+  </li>
+  <li>
+    <p>UV crosslinking box, e.g. Stratalinker.</p>
+  </li>
+  <li>
+    <p>ULTRAhyb-Oligo buffer (Life/ThermoFisher AM8663)</p>
+  </li>
+  <li>
+    <p>DNA oligo probes: 5’ biotinylated, 36-45nt long, 60-75C hybridization
+temperature, 45-65% GC-content, in
+10uM working solution. Or use biotinylated oligo-dT
+probes (Promega #Z5261) at 5 pmol/uL for mRNA.</p>
+  </li>
+  <li>
+    <p>Stringency wash buffer: 2X SSC (300mM NaCl, 30mM sodium citrate, pH
+7.0), 0.5% SDS. Make from 20X SSC stock (Life/ThermoFisher, AM9770).</p>
+  </li>
+  <li>
+    <p>NB strip buffer: 0.1X SSC, 0.5% SDS.</p>
+  </li>
+  <li>
+    <p>Streptavidin-AP conjugate (Life/Thermo Fisher #S921)</p>
+  </li>
+  <li>
+    <p>CDP-Star® Luminescent Substrate (0.25 mM Ready-To-Use), (Life/ThermoFisher #T2146)</p>
+  </li>
+  <li>
+    <p>Wash buffer: 1X PBS, 0.5% SDS. Make a 5X concentrate with 5X PBS and 2.5% SDS.</p>
+  </li>
+  <li>
+    <p>Blocking buffer: 1X PBS, 0.5% SDS, 0.1% I-Block reagent.</p>
+  </li>
+  <li>
+    <p>Assay buffer: 0.1M DEA (diethanolamine), 1mM MgCl2, pH 10.0.</p>
+  </li>
+</ul>
+
+<p>Note: the BrightStar BioDetect Nonisotopic Detection Kit (Life/ThermoFisher AM1930), 
+contained CDP-star, Strep-AP, 5X wash buffer, 1X blocking buffer, and 10X assay buffer, but was not 
+produced after 2014.</p>
+
+<p>Make wash, block and assay buffer fresh every month.</p>
+
+<h3 id="be-fastidious-about-cleanliness-and-avoiding-degradation">Be fastidious about cleanliness and avoiding degradation!</h3>
+
+<ul>
+  <li>
+    <p>Use RNAse-free equipment and solutions to run gel and transfer so
+you get a clear single band, and do not degrade your sample.</p>
+  </li>
+  <li>
+    <p>Only ever touch the membrane with forceps, i.e. not with your skin,
+sweat, etc, to avoid background.</p>
+  </li>
+</ul>
+
+<h2 id="dot-blot">Dot Blot</h2>
+
+<p>To check if your probes and buffers are working without running a gel.</p>
+
+<ol>
+  <li>Gently pipette 10uL of each RNA sample onto positively charged nylon membrane
+on vacuum (fritted glass plate). Dry membrane.</li>
+</ol>
+
+<h2 id="northern-blotting">Northern Blotting</h2>
+
+<ol>
+  <li>
+    <p>Cast a 1.5% agarose gel in 1X TBE buffer with 1:10000 SYBR safe and
+allow to set.</p>
+  </li>
+  <li>
+    <p>Put 1uL (or other measured amount) of each RNA sample into total
+10uL of 1X RNA loading buffer (NEB). Heat the tubes at 65 C for 5 min
+to denature RNA and then immediately place the tubes on ice.</p>
+  </li>
+  <li>
+    <p>Load samples on the gel along with 5uL RNA ladder/markers. Run the gel 
+in 1X TBE buffer at 100 V for 30min, or until the first bromophenol 
+blue dye reaches the bottom of the gel. <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></p>
+  </li>
+  <li>
+    <p>Turn off the current, remove the gel, and transfer the RNA onto a
+positively-charged nylon membrane. Use a pencil to mark the <em>sample</em>
+side of the membrane. Assemble gel sandwich according to picture on blotter instructions
+(RNA is negatively charged, so gel near negative electrode and
+membrane near positive electrode), use a standard Western blotting
+apparatus with 0.5X TBE buffer at 1 amp for 1 h. Trim off the
+portions of the gel that do not contain the samples to decrease the
+size of the membrane and use of smaller amounts of reagents in
+subsequent steps.</p>
+  </li>
+  <li>
+    <p>Crosslink RNA to the membrane by UV at 300 mJ/cm<sup>2</sup>; keep the
+membrane wet during crosslinking. Then dry the membrane; sample side
+faces <em>up</em> throughout.</p>
+  </li>
+</ol>
+
+<h2 id="hybridization">Hybridization</h2>
+
+<ol>
+  <li>
+    <p>If necessary, reheat ULTRAhyb-Oligo to 42-68 C to dissolve all
+precipitated material.</p>
+  </li>
+  <li>
+    <p>Prehybridize the blot for 10 min at 42 C with gentle agitation (incubator 
+at 42 C with 40rpm shaking). Use 1 mL ULTRAhyb-Oligo Hybridization
+Buffer per 10 cm<sup>2</sup> of membrane; volumes shown here are for
+minigel-sized blot, about 100 cm<sup>2</sup>. Be certain that enough solution 
+is present to keep the membrane uniformly wet for all subsequent steps.
+[step:prehyb]</p>
+  </li>
+  <li>
+    <p>Add 5 nM of the end labeled oligonucleotide (0.5 ul of
+10 uM working solution per mL of buffer). Since it is
+important that undiluted probe solution does not touch the membrane,
+pour the ULTRAhyb-Oligo solution from the prehybridization into a 50
+mL conical tube, add the labeled probe, mix by swirling, and then
+immediately pour the solution back into the container with the blot.</p>
+  </li>
+  <li>
+    <p>Hybridize overnight (6-24hr) at 42 C with gentle agitation. It may be
+possible to reduce the hybridization time down to 1hr for detection of
+relatively abundant RNA.</p>
+  </li>
+  <li>
+    <p>Wash the blot 2x30 min. Pipette off hybridization solution 
+<em>and save in 10mL tube</em>, this can be reused multiple (~5) times. 
+Immediately pour at least 50 mL stringency wash buffer onto the blot 
+and incubate at 42 C for 30 min with gentle agitation. Repeat with fresh 
+stringency wash buffer.</p>
+  </li>
+</ol>
+
+<h2 id="detection">Detection</h2>
+
+<ol>
+  <li>
+    <p>Measure the surface area of your membrane to determine the amounts
+of the washing and assay buffers needed. For example, for a 10 x 10 cm membrane (100
+cm<sup>2</sup>), 100 mL of washing buffer and 30 mL of assay buffer are
+needed (the volumes below are given for a 100 cm<sup>2</sup> membrane).
+Place the membrane sample side up in a plastic box of similar size, 
+at room temperature  on a rocking shaker at medium speed (10-20 rockings/min).
+Do not allow the membrane to dry throughout the entire procedure.</p>
+  </li>
+  <li>
+    <p>Wash the membrane 2 times, 5 min each, in 20 mL 1X washing buffer.</p>
+  </li>
+  <li>
+    <p>Wash the membrane 2 times, 5 min each, in 10 mL 1X blocking buffer.</p>
+  </li>
+  <li>
+    <p>Wash the membrane once for 30 min in 20 mL 1X blocking buffer.</p>
+  </li>
+  <li>
+    <p>Incubate the membrane for 30 min in 10 mL of conjugate solution
+(10 mL blocking buffer plus 1 ul of streptavidin-alkaline phosphatase 
+conjugate).</p>
+  </li>
+  <li>
+    <p>Wash the membrane once for 15 min in 20 mL 1X blocking buffer.</p>
+  </li>
+  <li>
+    <p>Wash the membrane 3 times, 15 min each, in 20 mL 1X washing buffer.</p>
+  </li>
+  <li>
+    <p>Wash the membrane 2 times, 2 min each, in 15 mL 1X assay buffer.</p>
+  </li>
+  <li>
+    <p>Incubate the membrane in enough CDP-star solution to cover, about
+1mL, for 5 min. Rotate by hand to make sure that the solution evenly
+covers the entire membrane.</p>
+  </li>
+  <li>
+    <p>Take out the membrane with forceps. Let the excess of CDP-star
+solution drip off, place the membrane on clear plastic wrap and
+wrap, ensuring no air bubbles are left.</p>
+  </li>
+  <li>
+    <p>Image the membrane on the Chemi-doc or other digital imager. Use
+chemiluminescent detection with signal accumulation mode, for
+example 45 images, 900 s. The CDP-star reaches peak light emission in
+2-4 h, and the light emission persists at the high level for several
+days, so you may get a better image by waiting an hour
+to image. SYBR safe also tends to transfer to the membrane with
+rRNA, sometimes enough to be seen by the naked eye, but is
+visualizable on Cy3 channel; unfortunately Xylene Cyanol
+is also transferred, visible as a lower-molecular
+weight bright blur on this channel so tRNA is not visible.</p>
+  </li>
+</ol>
+
+<h2 id="stripping-and-re-probing">Stripping and re-probing</h2>
+
+<p>Membranes may be stripped and re-probed multiple times (at least 4);
+they can be left in wash or block solution overnight, or frozen in
+plastic wrap at -20 C for weeks.</p>
+
+<ol>
+  <li>
+    <p>Remove membrane from plastic wrap, place membrane in a plastic tray
+that can survive 100 C liquids, covered by a minimal amount of NB
+strip buffer. Do not dry membrane, which may stick previous probes
+to membrane.</p>
+  </li>
+  <li>
+    <p>Twice: Heat 50mL NB strip buffer to boiling, in the microwave. Empty
+previous liquid, and pour boiling strip buffer over membrane
+in tray. Allow to cool to room temperature on rocker, about
+15 minutes.</p>
+  </li>
+  <li>
+    <p>Restart hybridization with new probes and continue as before.</p>
+  </li>
+</ol>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>For smaller RNA (50-500b) use a Bio-Rad Criterion TBE-Urea 5%
+acrylamide gel with 1X TBE buffer, be sure to wash wells with TBE 
+before loading. Run at 200 V for 60min. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+    </div>
+
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-open"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/categories.html#protocols-ref">
+    		protocols <span>6</span>
+    	</a></li>
+     
+    	<li><a href="/categories.html#protocol-ref">
+    		protocol <span>6</span>
+    	</a></li>
+    
+  
+
+
+    </ul>
+    
+
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-tags"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/tags.html#RNA-ref">RNA <span>4</span></a></li>
+     
+    	<li><a href="/tags.html#northern-ref">northern <span>1</span></a></li>
+     
+    	<li><a href="/tags.html#blot-ref">blot <span>1</span></a></li>
+    
+  
+
+
+
+    </ul>
+    
+  
+    <hr>
+    <ul class="pagination">
+    
+      <li class="prev"><a href="/news/aggregation-paper-coverage" title="Coverage of our aggregation paper">&laquo; Previous</a></li>
+    
+      <li><a href="/archive.html">Archive</a></li>
+    
+      <li class="next"><a href="/protocols/protocol/sucrose-gradient" title="Sucrose gradient protocol for polysome profiles">Next &raquo;</a></li>
+    
+    </ul>
+    <hr>
+    
+  </div>
+</div>
+
+
+   </div>
+
+
+  <!-- Static bottom navbar -->
+  <nav class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-bottom-collapse"> <!-- NOTE! data-target was changed to jb-bottom-collapse -->
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-bottom-collapse">
+        <ul class="nav navbar-nav navbar-left navbar-small">
+          <li><a href=http://nematology.ucr.edu/>Nematology</a></li>
+          <li><a href=http://www.ucr.edu>The University of California, Riverside</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right navbar-small">
+          <li><a href='/about.html#purpose'>About</a></li>
+          <li><a href='/about.html#join'>Join</a></li>
+          <li><a href='/about.html#contact'>Contact</a></li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div>
+  </nav>
+ 
+
+
+    
+
+
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-62008526-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+
+    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="/assets/themes/lab/bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
+

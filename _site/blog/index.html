@@ -1,547 +1,594 @@
+
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<head>
-	<meta charset="utf-8"/>
-	<title>Bik Lab / blog</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+    <meta name="description" content="The Drummond Lab blog">
+    <meta name="author" content="Holly Bik">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Bootstrap styles -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+    <!-- Optional theme -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet"/>
+    <!-- Sticky Footer -->
+    <link href="/assets/themes/lab/bootstrap/css/bs-sticky-footer.css" rel="stylesheet"/>
+    
+    <!-- Custom styles -->
+    <link href="/assets/themes/lab/css/style.css?body=1" rel="stylesheet" type="text/css" media="all"/>
+
+    <!-- icon -->
+    <link rel="shortcut icon" href="/assets/themes/lab/images/logo/favicon.ico"/>
+
+    <!-- Custom fonts and icons via Font Awesome, http://fortawesome.github.io/Font-Awesome/ -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
+
+    <!-- Fonts via Google -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700' rel='stylesheet' type='text/css'/>
+
+    <!-- Math via MathJax -->
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <!-- Update these with your own images
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    -->
+
+    <!-- atom & rss feed
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+    -->
+
+  </head>
+
+  <body>
+
+  <!-- Static top navbar -->
+
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class='container'>
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="/">
+        <img class="pull-left logo" src="/assets/themes/lab/images/logo/lab-logo.svg" type="image/svg+xml">
+        </a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-navbar-collapse">
+        <ul class="nav navbar-nav navbar-left hidden-sm">
+          <!-- Don't put site title on home page -- there's already a big title there. -->
+          
+          
+          
+          <a class="navbar-brand" href="/">Bik Lab @ UC Riverside</a>
+          
+        </ul>
+        <ul class="nav navbar-nav navbar-right pull-right">
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/projects/">Research</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/team/">Team</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/papers/">Papers</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li class="active"><a href="/blog/" class="active">Blog</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+
+          <li class="dropdown nav navbar-nav">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+              More <span class="caret"></span>
+            </a>
+
+            <ul class="dropdown-menu nav navbar-nav" role="menu">
+              
+              
+              
+
+
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/protocols/">Protocols</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/news/">News</a></li>
+      	
+      
+    
+  
+
+
+
+            </ul>
+            </li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </nav>
+   </div>
+
+   <!-- Content -->
+   <div class="container">
+      
+
+
+<div class="pager">
+  
+	  
+  
+	  	
+    
+</div>
+
+
+
 	
-	<!-- RSS feed -->
-	<link rel="alternate" type="application/rss+xml" title="" href="/feed.xml">
-	
-    <!-- Customized Bootstrap + Font Awesome + Solarized -->
-    <link href="/css/style.css" rel="stylesheet" media="screen">
 
-	<!-- Favicon -->
-	<link rel="shortcut icon" href="/images/logo.png"/>	
-
-	<!-- Typekit -->
-	<script>
-	  (function(d) {
-		var config = {
-		  kitId: 'xeu8jut',
-		  scriptTimeout: 3000
-		},
-		h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-	  })(document);
-	</script>
-		
-	<!-- Google Analytics -->	
-	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-		ga('create', 'UA-26244371-2', 'bedford.io');
-		ga('send', 'pageview');
-
-	</script>
-	
-	<!-- jQuery -->
-	<script src="/js/jquery.min.js"></script>
-	
-	<!-- Bootstrap -->
-	<script src="/js/transition.js"></script>
-	<script src="/js/collapse.js"></script>
-
-</head>
-
-<body>
-	
-	<div id="header">
-		<nav class="navbar navbar-default navbar-static-top" role="navigation">	 
-			<div class="container">	
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-element" aria-expanded="false">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-										
-					<object class="logo navbar-brand" data="/images/logo.svg" type="image/svg+xml"></object>
-					<a class="navbar-brand" href="/">Bik Lab</a>
-					
-				</div>
-				<div class="collapse navbar-collapse" id="navbar-collapse-element">
-					<ul class="nav navbar-nav navbar-right">
-						
-						<li>
-						
-						<a href="/research/">Research</a>
-						</li>
-
-						
-						<li>
-						
-						<a href="/people/">People</a>
-						</li>
-
-						
-						<li>
-						
-						<a href="/publications/">Publications</a>
-						</li>	  
-
-						
-						<li>
-						
-						<a href="/opportunities/">Opportunities</a>
-						</li>	
-
-						
-						<li class="active">
-						
-						<a href="/blog/">Blog</a>
-						</li>  	  
-
-					</ul>
-				</div>
-			</div>
-		</nav>	
-	</div>
-	
-	<div class="container">	
-		
+	<div class="bigspacer"></div>
 	<div class="row">
-	<div class="col-md-12">
-		<div class="centered-pills">
-			<ul class="nav nav-pills note">
-				<li role="presentation" class="active">
-					<a class="off" href="/blog/">
-						<i class="fa fa-refresh fa-fw"></i> Timeline
-					</a>
-				</li>
-				<li role="presentation">
-					<a class="off" href="/blog/archive/">
-						<i class="fa fa-list-ul fa-fw"></i> Index
-					</a>
-				</li>
-			</ul>
-		</div>
-		<div class="bigspacer"></div>
-	</div>
-</div>
-
-<div class="post-list">
-
-
-
-	
-
-	<div class="blog-post">
-		<div class="row">
-			<div class="col-md-1"></div>	
-			<div class="col-md-10">
-				<div class="media">
-					<div class="media-body">
-						<div class="title media-heading">
-							<a href="/blog/sep-2016-nextflu-report" class="off">Seasonal influenza circulation patterns and projections for 2016-2017</a>
-						</div>
-						<p>
-						<div class="smallhead">
-							21 Sep 2016
-									
-						</div>
-					</div>
-				</div>
+		<div class="col-md-3">
+			<div class="head">
+				<a href="/blog/edward-parting-poetry" class="off">Parting poetry from a peerless postdoc</a>
 			</div>
-			<div class="col-md-1"></div>					
-		</div>
-
-		<div class="bigspacer"></div>
-
-		<div class="row">
-			<div class="col-md-1"></div>
-			<div class="col-md-10">	
-				
-				
-				<a href="/papers/bedford-sep-2016-flu-report/">
-					<img class="offset" src="/images/blog/sep_2016_nextflu_tree.png">
-				</a>			
+			<div class="smallnote">
+				19 Dec 2015
 								
+			</div>	
+		</div>
+		<div class="col-md-8">		
+			<div style="height:5px;"></div>			
+			
+			<div class="post">
 				
-				<div class="post">
-					<p><a href="https://neherlab.wordpress.com/">Richard Neher</a> and I have compiled another report on <a href="/papers/bedford-sep-2016-flu-report/">recent patterns of seasonal influenza virus evolution</a> with an eye toward projecting forward to 2016 and 2017 flu seasons. All analyses are best on the nextflu platform. Doing weekly updates on <a href="http://nextflu.org/">nextflu</a> has forced us to keep pipelines current and has made putting together these reports not such a chore.</p>
-
-<p>This time around, the biggest news is within H3N2, where we’re seeing the rapid spread of a subclade within 3c2.a viruses. This subclade is primarily distinguished by the HA1:171K mutation (along with changes HA2:77V/155E). We predict these viruses will predominate in the future H3N2 population. However, we lack antigenic data to really say whether the vaccine needs updating. It’s possible to have this sort genetic evolution without strong antigenic evolution necessitating a vaccine update.</p>
-
-<p>In putting together the report this time, it was helpful referring to past reports from last <a href="http://nextflu.org/reports/sep-2015/">September</a> and this <a href="http://nextflu.org/reports/feb-2016/">February</a>. Gratifyingly, in February we stated:</p>
-
 <blockquote>
-  <p>Barring substantial changes in other clades, we predict the (HA1:171K, HA2:77V/155E) variant to dominate.</p>
+  <p><em>Note: <a href="/team/edward-wallace">Edward</a> sang the ditty below to us at his going-away party. He was the group’s first postdoc, a scientist of tremendous range who trained as a mathematician and mastered <a href="papers/paper/estimating-selection-on-synonymous-codon-usage/">computational molecular evolution</a>, then <a href="/papers/paper/endogenous-aggregates/">experimental biochemistry</a>, during his tenure. Now he’s off to start his Marie Curie fellowship in Edinburgh. He is greatly admired, and already deeply missed. – Allan</em></p>
 </blockquote>
 
-<p>This is exactly what’s come to pass in the last 6 months. As we keep doing this, we’ll be able to compile hits-and-misses and see where the intuition and models are succeeding and where they are failing.</p>
+<h1 id="o-drummond-lab">O Drummond Lab</h1>
+<p>(to the tune of “Shenandoah”)</p>
 
-				</div>	
-			</div>			
-			<div class="col-md-1"></div>
-		</div>
-	
-		<div class="bigspacer"></div>
-		<div class="spacer"></div>	
+<p>O Drummond lab, how I shall miss you,<br />
+At the bench and the computer,<br />
+And all the fine science that you do.<br />
+Away, I must away, across the vast Atlantic.</p>
 
-	</div>
+<p>For five long years I’ve toiled away,<br />
+At the bench and the computer,<br />
+Measuring proteins and RNA.<br />
+Away, I must away, across the vast Atlantic.</p>
+
+<p>All you have taught me so, so much,<br />
+At the bench and the computer,<br />
+Of biochemistry, evolution, cell biology, statistics, biophysics*, and such.<br />
+Away, I must away, across the vast Atlantic.</p>
+
+<p>O Drummond lab, you lovely colleagues,<br />
+At the bench and the computer,<br />
+And a quintillion heat-shocked yeasties.<br />
+Away, I must away, across the vast Atlantic.</p>
+
+<p>*Creative interpretation is needed to fit all these fields in a single line, or single postdoc.</p>
+
+<p><em>–<a href="/team/edward-wallace">Edward Wallace</a>, December 2015.</em></p>
 
 
-
-	
-
-	<div class="blog-post">
-		<div class="row">
-			<div class="col-md-1"></div>	
-			<div class="col-md-10">
-				<div class="media">
-					<div class="media-body">
-						<div class="title media-heading">
-							<a href="/blog/summer-2016" class="off">Summer 2016</a>
-						</div>
-						<p>
-						<div class="smallhead">
-							22 Aug 2016
-									
-						</div>
-					</div>
-				</div>
 			</div>
-			<div class="col-md-1"></div>					
-		</div>
+		</div>			
+		<div class="col-md-1"></div>
+	</div>		
 
-		<div class="bigspacer"></div>
 
-		<div class="row">
-			<div class="col-md-1"></div>
-			<div class="col-md-10">	
-				
-				
-				<img class="offset" src="/images/blog/seattle_summer.jpg">
+
+	
+
+	<div class="bigspacer"></div>
+	<div class="row">
+		<div class="col-md-3">
+			<div class="head">
+				<a href="/blog/about-endogenous-aggregates" class="off">Rethinking heat-induced aggregation</a>
+			</div>
+			<div class="smallnote">
+				10 Sep 2015
 								
-				
-				<div class="post">
-					<p>This has been a busy, but fun and productive, summer. Lots of things going on. I had a couple conferences, traveled to <a href="/blog/zibra-project/">Brazil in June</a> to help with Zika sequencing and traveled to <a href="https://twitter.com/trvrb/status/748188018024972288">South Korea for a collaborative visit</a>. In addition to lab things, I’ve been working with <a href="http://chacalle.github.io/">Charlton Callender</a>, <a href="https://neherlab.wordpress.com/">Richard Neher</a> and <a href="https://twitter.com/colinmegill">Colin Megill</a> on the <a href="http://nextstrain.org/">nextstrain</a> project, trying to get all the pieces of the pipeline together. We’re basically doing a full refactor from the existing <a href="/projects/nextflu/">nextflu codebase</a> to include a <a href="/projects/fauna/">database to manage sequence and serological data</a>, <a href="/projects/augur/">improved build pipelines</a> and more <a href="/projects/auspice/">flexible visualization tools</a>. I’ll try to write more on the nextstrain project at a later date. We’re trying to have a prototype ready by Dec 1 when <a href="https://www.openscienceprize.org/res/p/finalists/#2">Open Science Prize</a> judging will be held.</p>
-
-<p>Lots of activity in the lab:</p>
-
-<ul>
-  <li>
-    <p><a href="/team/alvason-li/">Alvason Li</a> designed some really nice analyses to track T cell dynamics using TCR repertoire data in collaborative project with <a href="http://research.fhcrc.org/corey/en/leadership/Zhu-J.html">Jia Zhu</a>. We’re writing this up now for publication, but some of the analyses can be seen <a href="https://github.com/alvason/cell-repertoire">here</a>. In July, Alvason departed for a postdoc in the <a href="http://research.fhcrc.org/corey/en.html">Corey Lab</a> to focus more on TCR repertoire analysis.</p>
-  </li>
-  <li>
-    <p><a href="/team/gytis-dudas/">Gytis Dudas</a> is finishing up a <em>massive</em> phylogeographic analysis of Ebola spread in West Africa. A few public results are <a href="https://github.com/ebov/space-time">here</a>.</p>
-  </li>
-  <li>
-    <p><a href="/team/allison-black/">Allison Black</a> passed her Epi quals (yay!) and is now thinking towards dissertation projects. We’re trying to get some in-house sequencing capabilities set up. Super exciting.</p>
-  </li>
-  <li>
-    <p><a href="/team/sidney-bell/">Sidney Bell</a> is finishing up a project on lentiviruses and cross-species transmission. Working on lentiviruses phylogenetics proved rather difficult (deep phylogenies with lots of recombination), but Sidney did splendidly. Sidney will be pursuing a PhD in the lab, jointly advised by Michael Emerman.</p>
-  </li>
-  <li>
-    <p><a href="/team/charlton-callender/">Charlton Callender</a> did an amazing job in building the database <a href="/projects/fauna/">fauna</a>, which is now capable of handling sequence and serological data for flu, Zika and Ebola. This deserves a blog post of its own at some point. In September, Charlton will be starting a <a href="http://www.healthdata.org/post-bachelor-fellowship">Post-Bachelor Fellowship at the Institute for Health Metrics and Evaluation</a> at the UW. Sad to losing him, but excited to see what he’ll accomplish at IHME.</p>
-  </li>
-  <li>
-    <p><a href="/team/stephanie-stacy/">Stephanie Stacy</a> spent the summer with the lab at part of the <a href="https://www.fredhutch.org/en/education-training/undergraduate-students.html">Undergraduate Internship Program</a>. She did a fantastic job developing a <a href="/projects/unsampled/">statistical method to estimate missed infections in a phylogenetic tree</a>. We imagine this could be useful for outbreak response. Steph won the award for <a href="https://twitter.com/trvrb/status/764293232758960128">best poster presentation at the SURP Poster Session</a>.</p>
-  </li>
-  <li>
-    <p><a href="/team/eden-berga/">Eden Berga</a> and <a href="/team/natalie-boesen/">Natalie Boesen</a> spent the summer with the lab through the <a href="https://www.fredhutch.org/en/careers/internship-opportunities/high-school-internship.html">High School Internship Program</a>. In the internship, Natalie and Eden learned how to program in program in Python and run phylogeographic analyses. They’ve both done impressive work and their resulting write-ups have been posted to GitHub for <a href="/projects/yellow-fever/">Eden’s project on yellow fever</a> and <a href="/projects/chikv/">Natalie’s project on chikungunya</a>.</p>
-  </li>
-</ul>
-
-<p>I’m looking forward to the coming year. We have lots of momentum at this point and it will be fun to see the science that’s produced.</p>
-
-				</div>	
-			</div>			
-			<div class="col-md-1"></div>
+			</div>	
 		</div>
-	
-		<div class="bigspacer"></div>
-		<div class="spacer"></div>	
+		<div class="col-md-8">		
+			<div style="height:5px;"></div>			
+			
+			<div class="post">
+				
+<p>We’ve just published a <a href="/papers/paper/endogenous-aggregates/">paper</a> on how cells respond to heat stress.</p>
 
-	</div>
+<h3 id="what-did-we-do">What did we do?</h3>
+
+<p>We measured heat-induced protein aggregation and disaggregation in budding yeast, a beautiful and hardy free-living unicellular organism that grows happily at 30°C, gets stressed out starting around 37°C, and dies pretty fast at 50°C.</p>
+
+<h3 id="what-did-we-find">What did we find?</h3>
+
+<p>We discovered that aggregates of endogenous proteins that form after heat stress are fully reversible, form rapidly at specific locations, and in certain cases retain function and fidelity in vitro.</p>
+
+<p>The behavior of endogenous, mature proteins in vivo does not match expectations from studies that use exogenous/reporter proteins or that focus on newly synthesized proteins. In those studies, aggregated proteins are often (but not always) degraded and generally lose their function.</p>
+
+<h3 id="ideas">Ideas</h3>
+
+<p>What looked like heat-induced protein damage followed by triage and degradation instead looks like an orderly, evolved regulatory response.</p>
+
+<h3 id="irresponsible-speculations">Irresponsible speculations</h3>
+
+<p>Heat-induced protein aggregation has been seen as mostly <em>physics</em>, but (for proteins that actually aggregate during heat shock) it’ll turn out to be mostly <em>biology</em>. The vast majority of aggregation in the cell in response to heat shock will prove to be beneficial. And not just by preventing toxicity, the way amyloid fibrils are often argued to be beneficial, but by carrying out critical cellular remodeling functions.</p>
+
+<p>Primary among those functions: focusing cellular protein synthesis on mRNAs encoding stress-responsive proteins.</p>
+
+<h3 id="picture-please">Picture, please?</h3>
+
+<p>For the science, there’s no substitute for reading the <a href="/papers/paper/endogenous-aggregates/">paper</a>. Here, I want to talk a little bit about how to think about what’s going on in the cell, given our study and everything else we know.</p>
+
+<p>Here is the idyllic campus of the Cellular Institute with its manicured grounds and main building. Happy workers (proteins) go about their often inscrutable business.</p>
+
+<p><img src="/assets/images/cellular-institute.png" alt="institute" width="300px" style=".center" /></p>
+
+<p>When suddenly: <em>catastrophe</em>. A fire breaks out. (Heat shock!) What happens?</p>
+
+<p>What has long been observed—blurrily, as if from orbit, because our instruments aren’t so great—is that suddenly the workers move to particular places and gather together in big groups.</p>
+
+<p><img src="/assets/images/fire-drill-blurry.png" alt="fire-drill-blurry" width="300px" style=".center" /></p>
+
+<p>Then after a little while, emergency crews show up, and some time after that, everything’s back to normal.</p>
+
+<p>So what’s going on?</p>
+
+<p>Most previous work has guessed, for many good empirical reasons, that mainly what’s going on is that the workers are distressed, damaged, even dying. Workers clump together because—gruesomely—heat partially melts them and makes them sticky. Of course, these workers stop working. Some injured workers can be rescued; many of them are beyond saving. The emergency crews triage victims, rescue some, and dispose of the bodies of the rest.</p>
+
+<p><img src="/assets/images/heat-shock-damage.png" alt="heat-shock-damage" width="550px" style=".center" /></p>
+
+<p>The alternative is that the institute has in place disaster-preparedness plans. What we observe is those plans being carried out to the letter, and the plans for heat shock look like the plans for a wide range of other emergencies:</p>
+
+<p><img src="/assets/images/cellular-emergency-plan.png" alt="emergency-plan" width="350px" style=".center" /></p>
+
+<p>Some workers stop working, but not because they’re damaged, just to clear the way for the emergency crew. Others continue to go about their business. Those clumps are groups of workers calmly holding on to each other and collecting at <a href="http://www.potsdam.edu/about/physicalplant/evacuationplans/procedures.cfm">designated assembly points</a>. The emergency crew shows up and tends to the few workers who are actually injured. When they’re done, the crew helps the assembled workers let go of each other and return to their original jobs.</p>
+
+<p><img src="/assets/images/heat-shock-assembly.png" alt="heat-shock-assembly" width="550px" style=".center" /></p>
+
+<p>Our study provides evidence that this latter set of activities describes the behavior of most endogenous, mature proteins. Which is not to say that the damage-and-chaos stuff doesn’t happen! Rather, it happens mainly to newly synthesized proteins and to foreign, destabilized reporter proteins.</p>
+
+<p>So here’s what we think is going on:</p>
+
+<p><img src="/assets/images/fire-drill-building-diagram.png" alt="fire-drill" width="750px" style=".center" /></p>
+
+<p>The “emergency crew” here is, naturally, the team of heat-induced molecular chaperones.</p>
+
+<p>There’s much more to do, and we’re incredibly excited to share the stories coming out of this work. Stay tuned…</p>
 
 
-
-	
-
-	<div class="blog-post">
-		<div class="row">
-			<div class="col-md-1"></div>	
-			<div class="col-md-10">
-				<div class="media">
-					<div class="media-body">
-						<div class="title media-heading">
-							<a href="/blog/zibra-project" class="off">Zika sequencing in Brazil (or Trevor does fieldwork)</a>
-						</div>
-						<p>
-						<div class="smallhead">
-							10 Jun 2016
-									
-						</div>
-					</div>
-				</div>
 			</div>
-			<div class="col-md-1"></div>					
-		</div>
+		</div>			
+		<div class="col-md-1"></div>
+	</div>		
 
-		<div class="bigspacer"></div>
 
-		<div class="row">
-			<div class="col-md-1"></div>
-			<div class="col-md-10">	
-				
-				
-				<a href="http://zibraproject.github.io">
-					<img class="offset" src="/images/blog/zibra_logo.png">
-				</a>			
+
+	
+
+	<div class="bigspacer"></div>
+	<div class="row">
+		<div class="col-md-3">
+			<div class="head">
+				<a href="/blog/adding-mathjax" class="off">Testing MathJax</a>
+			</div>
+			<div class="smallnote">
+				28 May 2015
 								
-				
-				<div class="post">
-					<p>I’m at the Rio airport now, heading home after 9 days in Brazil as part of the ground team of the <a href="http://zibraproject.github.io/about/">ZiBRA project</a>. As part of the team, I traveled from Natal to Recife along the northeastern coast collecting clinical samples for mobile Zika genome sequencing and analysis. This has been an illuminating experience and I’m grateful to <a href="http://lab.loman.net/">Nick</a>, <a href="http://evolve.zoo.ox.ac.uk/Evolve/Nuno_Faria.html">Nuno</a>, <a href="http://www.pgpat.ufba.br/docenteDetalhes.asp?id=FS0K6QkMSK">Luiz</a> and the <a href="http://zibraproject.github.io/people/">rest of the team</a> for inviting me to be part of this.</p>
-
-<p>I truly believe that pathogen genome analysis can contribute significantly to epidemiological understanding and outbreak response. However, for this to work, genomes need to be produced and shared quickly enough so that epidemiological insights are <em>actionable</em>. <a href="/blog/scientific-publishing-practices/">This was a major issue for much of the West African Ebola outbreak</a>, limiting the utility of genomic approaches. The situation is somewhat better for the ongoing Zika epidemic in the Americas in that multiple groups are releasing a genome here and a genome there, but overall depth is still lacking with just 64 outbreak genomes available at this time. The ZiBRA project is an attempt to do real-time genomic surveillance of Zika in Brazil. If all goes according to plan, this project will rapidly provide a dataset for downstream analysis of Zika evolution and epidemiology, aiding understanding of virus spread and epidemic dynamics.</p>
-
-<p>The trip was incredibly eye-opening for me in terms of the messy reality of viral surveillance and the even-more-messy details of Zika surveillance in Brazil. The basic pipeline for Zika surveillance in Brazil by the Ministry of Health (much like other viral surveillance systems) goes something like:</p>
-
-<ol>
-  <li>Patient presents at a clinic with symptoms consistent with infection (fever, rash, etc…).</li>
-  <li>The clinician sends a blood sample to the regional diagnostic laboratory (these are referred to as LACENs).</li>
-  <li>The LACEN extracts viral RNA and runs <a href="https://en.wikipedia.org/wiki/Real-time_polymerase_chain_reaction">RT-PCR</a> to confirm viral presence in the sample.</li>
-</ol>
-
-<p>The RT diagnostic is particularly important as clinical symptoms are difficult to distinguish between Zika, dengue and Chikungunya.  With the <a href="http://zibraproject.github.io/roadtrip/">road trip</a>, we were able to bring in reagents and expertise lacked by the LACENs and burn through a large number of banked clinical specimens to search for additional RT-positives. In some cases, we were able to confirm Zika diagnoses of pregnant women who presented the week before. We reported postive and negative RT diagnostics back to the LACENs. RT-positive samples were then brought forward for <a href="http://zibraproject.github.io/blog/multiplex-pcr-protocol/">PCR amplification</a> and <a href="http://zibraproject.github.io/blog/protocol-low-input-native-barcoding-protocol/">MinION sequencing</a>.</p>
-
-<p>I did help a bit with the lab-work, but I ended up mostly running point on metadata. As might be expected given the circumstances, the lab work was incredibly chaotic and I spent most of my time trying to keep sample data from <em>unraveling</em>. To keep epi metadata attached to a sample required maintaining a linkage between the numbers written from tube-to-tube-to-tube and the original LACEN ID. It also required digging through the LACEN diagnostic reports to pull in important epi metadata like date of collection and municipality of residence. I’ve never quite appreciated before the degree to which data wants to come apart if continual attention is not paid (proper data is an ordered state that is constantly under attack by entropic forces). I hope I’ve left the team with <a href="http://zibraproject.github.io/blog/metadata-wrangling/">systems in place to promote further metadata collection</a>.</p>
-
-<p>We finished base calling and assembly on the first MinION runs on June 8, but realized they need resequencing to have good coverage. That said, we should be releasing genomes soon and hope to keep a flow of genomes going through the next few months. I’m super excited to be able to rapidly incorporate these genomes into <a href="http://nextstrain.org/zika/">nextstrain.org</a> and help with tracking Zika evolution and epidemic spread.</p>
-
-<div class="row">
-	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1183.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1183.jpg" />
-		</a>
-		<div class="bigspacer"></div>
-	</div>
-	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1190.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1190.jpg" />
-		</a>
-		<div class="bigspacer"></div>
-	</div>
-	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1210.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1210.jpg" />
-		</a>
-		<div class="bigspacer"></div>
-	</div>
-	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1266.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1266.jpg" />
-		</a>
-		<div class="bigspacer"></div>
-	</div>
-	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1434.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1434.jpg" />
-		</a>
-		<div class="bigspacer"></div>
-	</div>
-	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1481.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1481.jpg" />
-		</a>
-		<div class="bigspacer"></div>
-	</div>	
-</div>
-
-<div class="row">
-	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1541.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1541.jpg" />
-		</a>
-		<div class="bigspacer"></div>
-	</div>
-	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1577.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1577.jpg" />
-		</a>
-		<div class="bigspacer"></div>
-	</div>
-	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1582.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1582.jpg" />
-		</a>
-		<div class="bigspacer"></div>
-	</div>
-	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1606.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1606.jpg" />
-		</a>
-		<div class="bigspacer"></div>
-	</div>
-	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1629.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1629.jpg" />
-		</a>
-		<div class="bigspacer"></div>
-	</div>
-	<div class="col-sm-2">
-		<a href="/images/blog/zibra_photos/img_1632.jpg">
-			<img src="/images/blog/zibra_photos_thumbnails/img_1632.jpg" />
-		</a>
-		<div class="bigspacer"></div>
-	</div>
-</div>
-
-<div class="spacer"></div>
-
-				</div>	
-			</div>			
-			<div class="col-md-1"></div>
+			</div>	
 		</div>
-	
-		<div class="bigspacer"></div>
-		<div class="spacer"></div>	
+		<div class="col-md-8">		
+			<div style="height:5px;"></div>			
+			
+			<div class="post">
+				
+<p>We do plenty of math, so I’d like to test out <a href="https://www.mathjax.org/">MathJax</a> support.</p>
 
-	</div>
+<p>Here is an example of MathJax inline rendering — \( 1/x^{2} \). And here is a block rendering:
+\[ r_{XY} = \frac{\mathrm{cov}(X,Y)}{\sqrt{\mathrm{var}(X)\mathrm{var}(Y)}} \]</p>
+
+<p>Now, if we’d like to get serious, we’d do something involving multiline aligned equations, like \[
+\begin{align}
+\mathcal{N}(t, \mu, \sigma) &amp;= \mathrm{normal} \newline
+ &amp;= \frac{1}{\sqrt{2 \pi} \sigma} e^{-\frac{(t-\mu)^2}{2 \sigma^2}}
+\end{align}
+\]
+or even an inline formula like \( \sum_{t=0}^{\infty} \frac{x^t}{t!} = e^x\).</p>
+
+<p>Or we could try defining a command, like this. \( 	\newcommand{\water}{\mathrm{H}_{2}\mathrm{O}} \)</p>
+
+<blockquote>
+  <p>Buffer slides off the sides of our tubes like \(\water\) off a duck’s back.</p>
+</blockquote>
 
 
-
-	
-
-	<div class="blog-post">
-		<div class="row">
-			<div class="col-md-1"></div>	
-			<div class="col-md-10">
-				<div class="media">
-					<div class="media-body">
-						<div class="title media-heading">
-							<a href="/blog/programmer-real-time-analysis" class="off">Programmer for real-time phylodynamic analysis</a>
-						</div>
-						<p>
-						<div class="smallhead">
-							4 Apr 2016
-									
-						</div>
-					</div>
-				</div>
 			</div>
-			<div class="col-md-1"></div>					
-		</div>
-
-		<div class="bigspacer"></div>
-
-		<div class="row">
-			<div class="col-md-1"></div>
-			<div class="col-md-10">	
-				
-				<div class="post">
-					<p>We’re looking for a programmer to help with the current push towards real-time analysis of virus evolution. The advertisement follows:</p>
-
-<blockquote>
-  <p>A programmer position is available immediately in the Bedford lab at the Fred Hutch to develop inference algorithms and interactive visualizations of viral outbreaks using DNA/RNA sequence data.</p>
-</blockquote>
-
-<blockquote>
-  <p>There has been remarkable progress in <a href="https://en.wikipedia.org/wiki/Viral_phylodynamics">phylodynamic</a> methods which use viral genetic sequence data to infer patterns of epidemic growth and geographic spread as well as patterns of adaptive evolution and strain turnover. However, until recently, these methods were solely applied in retrospective analyses to understand past events. With increasing availability and timeliness of sequence data, it is now becoming possible to perform and share phylodynamic analyses in near real-time.</p>
-</blockquote>
-
-<blockquote>
-  <p>Our group is leading this transition to real-time analysis and prediction. Current efforts by the lab include analyses of influenza (<a href="http://nextflu.org">nextflu.org</a>), Ebola (<a href="http://ebola.nextstrain.org">ebola.nextstrain.org</a>) and Zika (<a href="http://nextstrain.org/zika">nextstrain.org/zika/</a>) viruses. These sites are already being used by the Centers for Disease Control and the World Health Organization, particularly for influenza vaccine strain selection, and we believe further development will lead to substantial public health benefit. This project has grown to the point where we need a full-time programmer to generalize, refactor, and maintain our platform for data ingestion, processing and visualization.</p>
-</blockquote>
-
-<blockquote>
-  <p>The ideal candidate would have experience in Python (informatic processing pipeline <a href="https://github.com/blab/nextflu/tree/master/augur">augur</a> is written in Python) and Javascript (browser-based visualization <a href="https://github.com/blab/nextflu/tree/master/auspice">auspice</a> is written in Javascript). Experience with databases (we are using <a href="http://www.rethinkdb.com/">rethinkdb</a> for sequence organization) or web application programming would be a plus. The new team member would contribute to refactor the current codebase to make a more general and extensible platform for informatic processing and also to speed up the auspice visualization by reactive JSON pull-downs. Additional development would focus on extending pipelines to other viruses / pathogens and building new features for current viruses, as well as, implementing a robust <a href="https://www.docker.com/">Docker</a>-based deployment pipeline.</p>
-</blockquote>
-
-<blockquote>
-  <p>The Fred Hutch is located in South Lake Union in Seattle, WA and offers a dynamic work environment with cutting-edge science and computational resources. The position is available immediately with flexible starting dates. Informal inquires are welcome. Applications will be accepted until the position is filled.  We offer a competitive salary commensurate with skills and experience, along with benefits. The Fred Hutch and the Bedford lab are committed to improving diversity in the computational sciences. Applicants of diverse backgrounds are particularly encouraged to apply.</p>
-</blockquote>
-
-<blockquote>
-  <p>For more information about the lab, please see the our website at <a href="http://bedford.io">bedford.io</a>. To apply for the position please send (1) current resume, (2) code samples or links to published/distributed code and (3) contact information for two references to trevor<span style="display:none">obfuscate</span>@bedford.io.</p>
-</blockquote>
-
-				</div>	
-			</div>			
-			<div class="col-md-1"></div>
-		</div>
-	
-		<div class="bigspacer"></div>
-		<div class="spacer"></div>	
-
-	</div>
+		</div>			
+		<div class="col-md-1"></div>
+	</div>		
 
 
 
 	
 
-	<div class="blog-post">
-		<div class="row">
-			<div class="col-md-1"></div>	
-			<div class="col-md-10">
-				<div class="media">
-					<div class="media-body">
-						<div class="title media-heading">
-							<a href="/blog/welcome" class="off">Welcome</a>
-						</div>
-						<p>
-						<div class="smallhead">
-							17 Sep 2009
-									
-						</div>
-					</div>
-				</div>
+	<div class="bigspacer"></div>
+	<div class="row">
+		<div class="col-md-3">
+			<div class="head">
+				<a href="/blog/a-new-site" class="off">A new site</a>
 			</div>
-			<div class="col-md-1"></div>					
+			<div class="smallnote">
+				22 Apr 2015
+								
+			</div>	
 		</div>
-
-		<div class="bigspacer"></div>
-
-		<div class="row">
-			<div class="col-md-1"></div>
-			<div class="col-md-10">	
+		<div class="col-md-8">		
+			<div style="height:5px;"></div>			
+			
+			<div class="post">
 				
-				<div class="post">
-					<p>Welcome to the Bik Lab.</p>
+<p>Our new lab website is up and running. My goal with this site is to change how we communicate our science to the world, and to help others to get over barriers to that change.</p>
 
-				</div>	
-			</div>			
-			<div class="col-md-1"></div>
-		</div>
-	
-		<div class="bigspacer"></div>
-		<div class="spacer"></div>	
+<p>In terms of technology adoption, I believe we are <a href="http://www.drdobbs.com/architecture-and-design/crossing-the-chasm/187200223">early majority</a> types. That means the technology we’re using is relatively mature–we’re not risking much–but most people in our sphere aren’t yet using it. If you’re looking for <a href="http://www.drdobbs.com/architecture-and-design/crossing-the-chasm/187200223">innovation</a> or are an <a href="http://www.drdobbs.com/architecture-and-design/crossing-the-chasm/187200223">early adopter</a>, you’ll find this site to be hopelessly outdated!</p>
 
-	</div>
+<h2 id="open">Open</h2>
 
+<p>The site is fully open source, available in a <a href="https://github.com/drummondlab/drummondlab.github.io">GitHub repository</a>.</p>
+
+<h2 id="connected">Connected</h2>
+
+<p>Just as critical scientific interactions have taken place by correspondence and at scientific meetings, many such interactions now take place online in social media. <a href="http://datadryad.org">Data</a> and <a href="http://figshare.com">figures</a> now have homes in online repositories. (This stuff is forehead-slappingly obvious to some, and news to others.)</p>
 
 
-</div>
+			</div>
+		</div>			
+		<div class="col-md-1"></div>
+	</div>		
 
-<div class="infinite-spinner"></div>
 
+
+<div class="bigspacer"></div>	
 <div class="row">
-	<div class="col-md-12">
-		<div id="scroll" class="centered-pills">
-			<ul class="nav nav-pills note">
-				<li role="presentation">
-					<a class="off" href="/blog/">
-						<i class="fa fa-chevron-up fa-fw"></i> Back to top
-					</a>
-				</li>				
-			</ul>
-		</div>
+	<div class="col-md-12 text-center">
+		<a class="off" href="//archive/">
+			<div class="smallhead">Archive</div>
+			<i class="text-gray fa fa-chevron-circle-down fa-2x"></i>
+		</a>
 	</div>
 </div>
+   </div>
 
-<!-- Infinite scroll -->	
-<script async src="/js/infinite-scroll.js"></script>
-	
-	</div>
-	
-	<div id="footer"><span style="display:none">foo</span></div>
-		
-</body>
+
+  <!-- Static bottom navbar -->
+  <nav class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-bottom-collapse"> <!-- NOTE! data-target was changed to jb-bottom-collapse -->
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-bottom-collapse">
+        <ul class="nav navbar-nav navbar-left navbar-small">
+          <li><a href=http://nematology.ucr.edu/>Nematology</a></li>
+          <li><a href=http://www.ucr.edu>The University of California, Riverside</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right navbar-small">
+          <li><a href='/about.html#purpose'>About</a></li>
+          <li><a href='/about.html#join'>Join</a></li>
+          <li><a href='/about.html#contact'>Contact</a></li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div>
+  </nav>
+ 
+
+
+    
+
+
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-62008526-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+
+    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="/assets/themes/lab/bootstrap/js/bootstrap.min.js"></script>
+  </body>
 </html>
 

@@ -4,7 +4,7 @@
  <title>Bik Lab @ UC Riverside</title>
  <link href="biklab.github.io/" rel="self"/>
  <link href="biklab.github.io"/>
- <updated>2016-09-28T13:09:39-07:00</updated>
+ <updated>2016-09-28T13:28:36-07:00</updated>
  <id>biklab.github.io</id>
  <author>
    <name>Holly Bik</name>
@@ -158,6 +158,8 @@ Chicago, Illinois 60637&lt;/p&gt;
    <id>biklab.github.io/projects/project/stress-agg</id>
    <content type="html">
 &lt;p&gt;Stress triggers proteins to clump together into massive assemblies.&lt;/p&gt;
+
+&lt;p&gt;testing adding content&lt;/p&gt;
 </content>
  </entry>
  

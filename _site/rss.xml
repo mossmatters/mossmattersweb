@@ -5,10 +5,42 @@
         <description>Bik Lab @ UC Riverside - Holly Bik</description>
         <link>biklab.github.io</link>
         <link>biklab.github.io</link>
-        <lastBuildDate>2016-09-28T13:28:36-07:00</lastBuildDate>
-        <pubDate>2016-09-28T13:28:36-07:00</pubDate>
+        <lastBuildDate>2016-10-03T15:45:02-07:00</lastBuildDate>
+        <pubDate>2016-10-03T15:45:02-07:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Taruna Aggarwal</title>
+                <description>&lt;p&gt;Taruna recently completed her Master’s degree from the University of New Hampshire under the guidance of &lt;a href=&quot;http://genomebio.org/&quot;&gt;Matt MacManes&lt;/a&gt; and &lt;a href=&quot;http://broderslab.agsci.colostate.edu/&quot;&gt;Kirk Broders&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>biklab.github.io/team/taruna-aggarwal</link>
+                <guid>biklab.github.io/team/taruna-aggarwal</guid>
+                <pubDate>2016-10-03T00:00:00-07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Unravelling post-glacial colonization through molecular techniques: new insight from estuarine invertebrates</title>
+                <description>
+</description>
+                <link>biklab.github.io/papers/paper/unravelling-post-glacial-colonization</link>
+                <guid>biklab.github.io/papers/paper/unravelling-post-glacial-colonization</guid>
+                <pubDate>2016-10-03T00:00:00-07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Rapid decline of PCR amplification from genomic extracts of DESS-preserved, slide-mounted nematodes</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Many studies use integrative methods to study both morphology and gene sequences of nematode species, yet there is little evidence to indicate the optimum criteria for merging taxonomic and molecular protocols. Preliminary evidence suggests that standard methods of desiccation and slide mounting nematode specimens in glycerin can sporadically result in degradation of genomic DNA. A time series experiment was constructed in order to assess whether this degradation of genomic DNA could be recorded and quantified. Two groups of nematode specimens were desiccated, mounted on slides, and stored at either 4°C or at room temperature for specified time intervals. Genomic DNA was extracted and PCR was conducted to amplify a section of the 18S rRNA gene at each time point. The resulting gel photographs were used to record the outcome of PCR and quantify the strength of amplification if successful. Results from slide-mounted specimens were compared to PCR products derived from unmounted nematodes extracted directly from the preservative solution at specified time intervals. The desiccation and slide mounting process appears to reduce overall band intensity after 1 day in slide mounts. Unmounted specimens consistently exhibit high success rates of PCR and a high overall DNA content per band at all time points, whereas slide-mounted nematodes show a decrease in the number of successful PCRs and weakening band intensity as time progresses. Results clearly indicate a steady degradation of genomic DNA in nematodes stored in slide mounts for more than 2 weeks, whereas unmounted specimens extracted from preservative solution showed no decline in PCR success or quality. We suggest a maximum storage period of 2 weeks on slides if mounted nematodes are to be used for molecular analyses.&lt;/p&gt;
+
+</description>
+                <link>biklab.github.io/papers/paper/decline-of-pcr-amplification</link>
+                <guid>biklab.github.io/papers/paper/decline-of-pcr-amplification</guid>
+                <pubDate>2016-10-03T00:00:00-07:00</pubDate>
+        </item>
 
         <item>
                 <title>Holly Bik</title>
@@ -126,7 +158,7 @@
 
 &lt;h1 id=&quot;holly-bik&quot;&gt;Holly Bik&lt;/h1&gt;
 &lt;p&gt;Email: holly.bik@ucr.edu&lt;br /&gt;
-Office: Genomics, 2nd floor, Room 2206&lt;/p&gt;
+Office: Genomics, 2nd floor, Room 2202A&lt;/p&gt;
 
 &lt;h2 id=&quot;mailing-address&quot;&gt;Mailing Address&lt;/h2&gt;
 &lt;p&gt;Office: GCIS W234&lt;br /&gt;
@@ -159,18 +191,6 @@ Chicago, Illinois 60637&lt;/p&gt;
                 <link>biklab.github.io/projects/project/stress-agg</link>
                 <guid>biklab.github.io/projects/project/stress-agg</guid>
                 <pubDate>2015-04-02T00:00:00-07:00</pubDate>
-        </item>
-
-        <item>
-                <title>Thermodynamic prediction of protein neutrality</title>
-                <description>
-&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
-
-&lt;p&gt;We present a simple theory that uses thermodynamic parameters to predict the probability that a protein retains the wild-type structure after one or more random amino acid substitutions. Our theory predicts that for large numbers of substitutions the probability that a protein retains its structure will decline exponentially with the number of substitutions, with the severity of this decline determined by properties of the structure. Our theory also predicts that a protein can gain extra robustness to the first few substitutions by increasing its thermodynamic stability. We validate our theory with simulations on lattice protein models and by showing that it quantitatively predicts previously published experimental measurements on subtilisin and our own measurements on variants of TEM1 beta-lactamase. Our work unifies observations about the clustering of functional proteins in sequence space, and provides a basis for interpreting the response of proteins to substitutions in protein engineering applications.&lt;/p&gt;
-</description>
-                <link>biklab.github.io/papers/paper/thermodynamic-prediction-of-protein-neutrality</link>
-                <guid>biklab.github.io/papers/paper/thermodynamic-prediction-of-protein-neutrality</guid>
-                <pubDate>2005-01-11T00:00:00-08:00</pubDate>
         </item>
 
 

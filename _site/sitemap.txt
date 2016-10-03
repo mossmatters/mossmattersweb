@@ -18,6 +18,9 @@ biklab.github.io/assets/themes/lab/less/style.less
 biklab.github.io/assets/themes/lab/css/style.css
 biklab.github.io/tags
 
+biklab.github.io/team/taruna-aggarwal
+biklab.github.io/papers/paper/unravelling-post-glacial-colonization
+biklab.github.io/papers/paper/decline-of-pcr-amplification
 biklab.github.io/team/holly-bik
 biklab.github.io/blog/welcome
 biklab.github.io/news/catalyst-award
@@ -27,4 +30,3 @@ biklab.github.io/misc/home/home
 biklab.github.io/protocols/protocol/chloroform-methanol-precipitation
 biklab.github.io/misc/about
 biklab.github.io/projects/project/stress-agg
-biklab.github.io/papers/paper/thermodynamic-prediction-of-protein-neutrality

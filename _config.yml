@@ -163,4 +163,5 @@ JB :
 # allow page redirection
 gems:
   - jekyll-redirect-from
+  - jekyll-github-metadata
   

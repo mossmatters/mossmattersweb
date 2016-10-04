@@ -4,7 +4,7 @@
  <title>Bik Lab @ UC Riverside</title>
  <link href="biklab.github.io/" rel="self"/>
  <link href="biklab.github.io"/>
- <updated>2016-10-03T15:45:02-07:00</updated>
+ <updated>2016-10-03T16:02:18-07:00</updated>
  <id>biklab.github.io</id>
  <author>
    <name>Holly Bik</name>
@@ -40,6 +40,21 @@
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
 &lt;p&gt;Many studies use integrative methods to study both morphology and gene sequences of nematode species, yet there is little evidence to indicate the optimum criteria for merging taxonomic and molecular protocols. Preliminary evidence suggests that standard methods of desiccation and slide mounting nematode specimens in glycerin can sporadically result in degradation of genomic DNA. A time series experiment was constructed in order to assess whether this degradation of genomic DNA could be recorded and quantified. Two groups of nematode specimens were desiccated, mounted on slides, and stored at either 4°C or at room temperature for specified time intervals. Genomic DNA was extracted and PCR was conducted to amplify a section of the 18S rRNA gene at each time point. The resulting gel photographs were used to record the outcome of PCR and quantify the strength of amplification if successful. Results from slide-mounted specimens were compared to PCR products derived from unmounted nematodes extracted directly from the preservative solution at specified time intervals. The desiccation and slide mounting process appears to reduce overall band intensity after 1 day in slide mounts. Unmounted specimens consistently exhibit high success rates of PCR and a high overall DNA content per band at all time points, whereas slide-mounted nematodes show a decrease in the number of successful PCRs and weakening band intensity as time progresses. Results clearly indicate a steady degradation of genomic DNA in nematodes stored in slide mounts for more than 2 weeks, whereas unmounted specimens extracted from preservative solution showed no decline in PCR success or quality. We suggest a maximum storage period of 2 weeks on slides if mounted nematodes are to be used for molecular analyses.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Join</title>
+   <link href="biklab.github.io/misc/join-us"/>
+   <updated>2016-10-03T00:00:00-07:00</updated>
+   <id>biklab.github.io/misc/join-us</id>
+   <content type="html">
+&lt;p&gt;&lt;a name=&quot;purpose&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;our-sites-inspirations&quot;&gt;Our site’s inspirations&lt;/h1&gt;
+
+&lt;p&gt;Join us&lt;/p&gt;
 
 </content>
  </entry>
@@ -158,27 +173,6 @@
 &lt;p&gt;Our site is inspired by &lt;a href=&quot;http://bedford.io/team/trevor-bedford/&quot;&gt;Trevor Bedford&lt;/a&gt;’s and &lt;a href=&quot;http://localhost:4000/team/d-allan-drummond&quot;&gt;D. Allan Drummond&lt;/a&gt;’s lab webpages. Our site is deployed using &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and the source code is available on &lt;a href=&quot;https://github.com/tarunaaggarwal/tarunaaggarwal.github.io&quot;&gt;GitHub&lt;/a&gt;. Please feel free to use this code and reach out to us if you have any questions. Thank you!&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&quot;contact&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
-
-&lt;h1 id=&quot;holly-bik&quot;&gt;Holly Bik&lt;/h1&gt;
-&lt;p&gt;Email: holly.bik@ucr.edu&lt;br /&gt;
-Office: Genomics, 2nd floor, Room 2202A&lt;/p&gt;
-
-&lt;h2 id=&quot;mailing-address&quot;&gt;Mailing Address&lt;/h2&gt;
-&lt;p&gt;Office: GCIS W234&lt;br /&gt;
-Lab: GCIS W229&lt;br /&gt;
-929 E. 57th Street&lt;br /&gt;
-Chicago, Illinois 60637&lt;/p&gt;
-
-&lt;h2 id=&quot;phone&quot;&gt;Phone&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Lab: (773) 834-0635&lt;/li&gt;
-  &lt;li&gt;Office: (773) 834-2017&lt;/li&gt;
-  &lt;li&gt;Fax: (773) 702-0439&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a name=&quot;design&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>

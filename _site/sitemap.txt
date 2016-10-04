@@ -11,6 +11,7 @@ biklab.github.io/misc/
 biklab.github.io/news/
 biklab.github.io/papers/
 biklab.github.io/
+biklab.github.io/join
 biklab.github.io/pages
 biklab.github.io/rss.xml
 biklab.github.io/sitemap.txt
@@ -21,6 +22,7 @@ biklab.github.io/tags
 biklab.github.io/team/taruna-aggarwal
 biklab.github.io/papers/paper/unravelling-post-glacial-colonization
 biklab.github.io/papers/paper/decline-of-pcr-amplification
+biklab.github.io/misc/join-us
 biklab.github.io/team/holly-bik
 biklab.github.io/blog/welcome
 biklab.github.io/news/catalyst-award

@@ -5,8 +5,8 @@
         <description>Bik Lab @ UC Riverside - Holly Bik</description>
         <link>biklab.github.io</link>
         <link>biklab.github.io</link>
-        <lastBuildDate>2016-10-03T15:45:02-07:00</lastBuildDate>
-        <pubDate>2016-10-03T15:45:02-07:00</pubDate>
+        <lastBuildDate>2016-10-03T16:02:18-07:00</lastBuildDate>
+        <pubDate>2016-10-03T16:02:18-07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -39,6 +39,21 @@
 </description>
                 <link>biklab.github.io/papers/paper/decline-of-pcr-amplification</link>
                 <guid>biklab.github.io/papers/paper/decline-of-pcr-amplification</guid>
+                <pubDate>2016-10-03T00:00:00-07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Join</title>
+                <description>
+&lt;p&gt;&lt;a name=&quot;purpose&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;our-sites-inspirations&quot;&gt;Our site’s inspirations&lt;/h1&gt;
+
+&lt;p&gt;Join us&lt;/p&gt;
+
+</description>
+                <link>biklab.github.io/misc/join-us</link>
+                <guid>biklab.github.io/misc/join-us</guid>
                 <pubDate>2016-10-03T00:00:00-07:00</pubDate>
         </item>
 
@@ -153,27 +168,6 @@
 &lt;p&gt;Our site is inspired by &lt;a href=&quot;http://bedford.io/team/trevor-bedford/&quot;&gt;Trevor Bedford&lt;/a&gt;’s and &lt;a href=&quot;http://localhost:4000/team/d-allan-drummond&quot;&gt;D. Allan Drummond&lt;/a&gt;’s lab webpages. Our site is deployed using &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and the source code is available on &lt;a href=&quot;https://github.com/tarunaaggarwal/tarunaaggarwal.github.io&quot;&gt;GitHub&lt;/a&gt;. Please feel free to use this code and reach out to us if you have any questions. Thank you!&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&quot;contact&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
-
-&lt;h1 id=&quot;holly-bik&quot;&gt;Holly Bik&lt;/h1&gt;
-&lt;p&gt;Email: holly.bik@ucr.edu&lt;br /&gt;
-Office: Genomics, 2nd floor, Room 2202A&lt;/p&gt;
-
-&lt;h2 id=&quot;mailing-address&quot;&gt;Mailing Address&lt;/h2&gt;
-&lt;p&gt;Office: GCIS W234&lt;br /&gt;
-Lab: GCIS W229&lt;br /&gt;
-929 E. 57th Street&lt;br /&gt;
-Chicago, Illinois 60637&lt;/p&gt;
-
-&lt;h2 id=&quot;phone&quot;&gt;Phone&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Lab: (773) 834-0635&lt;/li&gt;
-  &lt;li&gt;Office: (773) 834-2017&lt;/li&gt;
-  &lt;li&gt;Fax: (773) 702-0439&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a name=&quot;design&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 </description>
                 <link>biklab.github.io/misc/about</link>

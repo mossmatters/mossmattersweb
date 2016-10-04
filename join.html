@@ -1,0 +1,14 @@
+---
+layout: default
+title: Bik Lab
+categories:
+ - home
+---
+{% include JB/setup %}
+{% for page in site.categories.misc %}
+{% if page.join %}
+	{% assign aboutpage = page %}
+{% endif %}
+{% endfor %}
+
+{{ joinpage.content }}

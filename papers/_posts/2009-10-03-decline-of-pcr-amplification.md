@@ -2,7 +2,7 @@
 layout: paper
 title: "Rapid decline of PCR amplification from genomic extracts of DESS-preserved, slide-mounted nematodes"
 year: "2009"
-shortref: "Bik 2009. Nematology"
+shortref: "Bik 2009, <i>Nematology</i>"
 nickname: 
 journal: "Nematology"
 volume: 11

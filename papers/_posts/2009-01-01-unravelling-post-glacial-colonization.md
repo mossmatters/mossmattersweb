@@ -2,7 +2,7 @@
 layout: paper
 title: "Unravelling post-glacial colonization through molecular techniques: new insight from estuarine invertebrates"
 year: "2009"
-shortref: "Bik 2009, <i>J. Biogeogr.</i>"
+shortref: "Bik 2009, <i>J Biogeogr</i>"
 nickname: 
 journal: "J. Biogeogr."
 volume: 36

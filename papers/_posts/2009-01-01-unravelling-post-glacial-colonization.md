@@ -10,7 +10,7 @@ issue:
 pages: 16-17
 authors: "Bik HM"
 image: /assets/images/papers/default-paper.svg
-pdf: 
+pdf: https://www.dropbox.com/s/xifqexzys22t73e/Bik_2009_JBiogography_EsturaineInverts.pdf?dl=0
 pdflink: https://www.dropbox.com/s/xifqexzys22t73e/Bik_2009_JBiogography_EsturaineInverts.pdf?dl=0
 github: 
 <!-- pmid: 15644440

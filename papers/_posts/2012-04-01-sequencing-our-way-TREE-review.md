@@ -8,7 +8,7 @@ journal: "Trends in Ecology and Evolution"
 volume: 27
 issue: 4
 pages: 233-243
-authors: "Bik HM, Porazinska DL, Creer S, Caporaso JG, Knight R, Thomas WK"
+authors: "<b><u>Bik HM</u></b>, Porazinska DL, Creer S, Caporaso JG, Knight R, Thomas WK"
 image: /assets/images/papers/default-paper.svg
 pdf: /assets/pdf/Bik-2012-TREE-EukReview.pdf
 pdflink:

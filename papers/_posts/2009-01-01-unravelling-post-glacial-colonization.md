@@ -8,7 +8,7 @@ journal: "J. Biogeogr."
 volume: 36
 issue: 
 pages: 16-17
-authors: "Bik HM"
+authors: "<b><u>Bik HM</u></b>"
 image: /assets/images/papers/default-paper.svg
 pdf: /assets/pdfs/Bik-2009-JBiogography-EsturaineInverts.pdf
 pdflink: 

@@ -8,7 +8,7 @@ journal: "BMC Evolutionary Biology"
 volume: 10
 issue: 
 pages: 353
-authors: "Bik HM, Thomas WKT, Lambshead PJD, Lunt DH"
+authors: "<b><u>Bik HM</u></b>, Thomas WKT, Lambshead PJD, Lunt DH"
 image: /assets/images/papers/default-paper.svg
 pdf: /assets/pdf/Bik-2010-BMCEvoBio-EnoplidPhylogeny.pdf
 pdflink:

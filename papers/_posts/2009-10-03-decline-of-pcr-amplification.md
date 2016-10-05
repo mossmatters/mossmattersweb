@@ -8,7 +8,7 @@ journal: "Nematology"
 volume: 11
 issue: 6
 pages: 827-834
-authors: "Bik HM, Hawkins LE, Hughes JA, Lambshead JD"
+authors: "<b><u>Bik HM</u></b>, Hawkins LE, Hughes JA, Lambshead JD"
 image: /assets/images/papers/default-paper.svg
 pdf: /assets/pdf/Bik-2009-Nematology-NemPCR.pdf
 pdflink:

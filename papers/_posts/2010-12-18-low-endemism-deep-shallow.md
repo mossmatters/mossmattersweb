@@ -8,7 +8,7 @@ journal: "BMC Evolutionary Biology"
 volume: 10
 issue: 
 pages: 389
-authors: "Bik HM, Lunt DH, Thomas WKT, Lambshead PJD"
+authors: "<b><u>Bik HM</u></b>, Lunt DH, Thomas WKT, Lambshead PJD"
 image: /assets/images/papers/default-paper.svg
 pdf: /assets/pdf/Bik-2010-BMCEvolBiol-DeepShallow.pdf
 pdflink:

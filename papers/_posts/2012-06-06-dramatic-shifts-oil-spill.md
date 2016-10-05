@@ -10,7 +10,7 @@ issue: 6
 pages: e38550
 authors: "<b><u>Bik HM</u></b>, Halanych KM, Sharma J, Thomas WK"
 image: /assets/images/papers/default-paper.svg
-pdf: /assets/pdf/Bik-2012-PLoSONE-oilspill.pdf
+pdf: /assets/pdfs/Bik-2012-PLoSONE-oilspill.pdf
 pdflink:
 github: 
 <!-- pmid: 15644440

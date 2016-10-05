@@ -10,7 +10,7 @@ issue: 4
 pages: e1001535
 authors: "<b><u>Bik HM</u></b>, Goldstein MC"
 image: /assets/images/papers/default-paper.svg
-pdf: /assets/pdf/Bik-2013-PLoSBiology-SocialMedia.pdf
+pdf: /assets/pdfs/Bik-2013-PLoSBiology-SocialMedia.pdf
 pdflink:
 github: 
 <!-- pmid: 15644440

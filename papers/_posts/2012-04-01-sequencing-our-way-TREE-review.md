@@ -10,7 +10,7 @@ issue: 4
 pages: 233-243
 authors: "<b><u>Bik HM</u></b>, Porazinska DL, Creer S, Caporaso JG, Knight R, Thomas WK"
 image: /assets/images/papers/default-paper.svg
-pdf: /assets/pdf/Bik-2012-TREE-EukReview.pdf
+pdf: /assets/pdfs/Bik-2012-TREE-EukReview.pdf
 pdflink:
 github: 
 <!-- pmid: 15644440

@@ -10,7 +10,7 @@ issue:
 pages: 49
 authors: "Adams RI, Bateman AC, <b><u>Bik HM</u></b>, Meadow JF"
 image: /assets/images/papers/default-paper.svg
-pdf: /assets/pdf/Adams-2015-Microbiome-IndoorEnviron.pdf
+pdf: /assets/pdfs/Adams-2015-Microbiome-IndoorEnviron.pdf
 pdflink:
 github: 
 <!-- pmid: 15644440

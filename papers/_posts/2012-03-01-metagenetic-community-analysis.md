@@ -10,7 +10,7 @@ issue: 5
 pages: 1048-1059
 authors: "<b><u>Bik HM</u></b>, Sung W, De Ley P, Baldwin JG, Sharma J, Rocha-Olivares A, Thomas WK"
 image: /assets/images/papers/default-paper.svg
-pdf: /assets/pdf/Bik-2012-MolecEcol-MetageneticCommunity.pdf
+pdf: /assets/pdfs/Bik-2012-MolecEcol-MetageneticCommunity.pdf
 pdflink:
 github: 
 <!-- pmid: 15644440

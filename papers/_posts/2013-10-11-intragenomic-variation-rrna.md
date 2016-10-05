@@ -10,7 +10,7 @@ issue: 10
 pages: e78230
 authors: "<b><u>Bik HM</u></b>, Fournier D, Bergeron RD, Sung W, Thomas WK"
 image: /assets/images/papers/default-paper.svg
-pdf: /assets/pdf/Bik-2013-PLoSONE-IntragenomicrRNA.pdf
+pdf: /assets/pdfs/Bik-2013-PLoSONE-IntragenomicrRNA.pdf
 pdflink:
 github: 
 <!-- pmid: 15644440

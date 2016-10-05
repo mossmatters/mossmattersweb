@@ -10,7 +10,7 @@ issue:
 pages: 353
 authors: "<b><u>Bik HM</u></b>, Thomas WKT, Lambshead PJD, Lunt DH"
 image: /assets/images/papers/default-paper.svg
-pdf: /assets/pdf/Bik-2010-BMCEvoBio-EnoplidPhylogeny.pdf
+pdf: /assets/pdfs/Bik-2010-BMCEvoBio-EnoplidPhylogeny.pdf
 pdflink:
 github: 
 <!-- pmid: 15644440

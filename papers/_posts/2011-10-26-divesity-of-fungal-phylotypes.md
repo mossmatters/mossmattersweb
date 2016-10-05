@@ -10,7 +10,7 @@ issue: 10
 pages: e26445
 authors: "Bhadury P, <b><u>Bik HM</u></b>, Lambshead PJD, Austen MC, Smerdon GR, Rogers AD"
 image: /assets/images/papers/default-paper.svg
-pdf: /assets/pdf/Bhadury-2011-PLoSONE-FungalPhylotypes.pdf
+pdf: /assets/pdfs/Bhadury-2011-PLoSONE-FungalPhylotypes.pdf
 pdflink:
 github: 
 <!-- pmid: 15644440

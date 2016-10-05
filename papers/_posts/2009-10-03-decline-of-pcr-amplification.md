@@ -10,7 +10,7 @@ issue: 6
 pages: 827-834
 authors: "<b><u>Bik HM</u></b>, Hawkins LE, Hughes JA, Lambshead JD"
 image: /assets/images/papers/default-paper.svg
-pdf: /assets/pdf/Bik-2009-Nematology-NemPCR.pdf
+pdf: /assets/pdfs/Bik-2009-Nematology-NemPCR.pdf
 pdflink:
 github: 
 <!-- pmid: 15644440

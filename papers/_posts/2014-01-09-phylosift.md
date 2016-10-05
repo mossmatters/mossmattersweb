@@ -10,7 +10,7 @@ issue:
 pages: e243
 authors: "Darling A, Jospin G, Lowe E, Matsen FA, <b><u>Bik HM</u></b>, Eisen JA"
 image: /assets/images/papers/default-paper.svg
-pdf: /assets/pdf/Darling-2014-PeerJ-PhyloSift.pdf
+pdf: /assets/pdfs/Darling-2014-PeerJ-PhyloSift.pdf
 pdflink:
 github: 
 <!-- pmid: 15644440

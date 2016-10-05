@@ -10,7 +10,7 @@ issue:
 pages: 389
 authors: "<b><u>Bik HM</u></b>, Lunt DH, Thomas WKT, Lambshead PJD"
 image: /assets/images/papers/default-paper.svg
-pdf: /assets/pdf/Bik-2010-BMCEvolBiol-DeepShallow.pdf
+pdf: /assets/pdfs/Bik-2010-BMCEvolBiol-DeepShallow.pdf
 pdflink:
 github: 
 <!-- pmid: 15644440

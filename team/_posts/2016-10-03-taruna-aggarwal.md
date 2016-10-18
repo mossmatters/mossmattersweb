@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Taruna Aggarwal"
-position: Research Asst. 
+position: Assistant Specialist 
 email: taruna.aggarwal@ucr.edu
 twitter: Envirnomntality
 github: tarunaaggarwal

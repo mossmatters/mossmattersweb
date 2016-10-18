@@ -8,7 +8,7 @@ tags: [sample collection, preservative, DESS]
 ---
 {% include JB/setup %}
 
-
+<br>
 We use the DESS solution for field sample collection, since it represents a useful preservative that maintains the integreity of both morphology and DNA in a single solution. DESS is an EDTA/DMSO solution saturated with NaCl; since it is a simple salt-buffered preservative, it it is stable at room temperature and is not classified as hazardous or "dangerous goods" (making it much easier to ship/transport vs. Formalin or Ethanol, in addition to the DNA preservation benefits). DESS was originally develped for nematode sampling, but we have also found it useful for preserving DNA/morphology in various other meiofauna (microbial metazoan) phyla.
 
 [Click here to download this protocol as a PDF]

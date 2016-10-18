@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to the Bik Lab website!"
-description: ""
+description: "We're very excited to announce the launch of the official Bik Lab website (and we hope you like it too)!"
 author: "Holly Bik"
 author_handle: hollybik
 category: blog
@@ -11,8 +11,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-<!-- > _Note: [Edward][1] sang the ditty below to us at his going-away party. He was the group's first postdoc, a scientist of tremendous range who trained as a mathematician and mastered [computational molecular evolution][2], then [experimental biochemistry][3], during his tenure. Now he's off to start his Marie Curie fellowship in Edinburgh. He is greatly admired, and already deeply missed. -- Allan_ -->
-
+<br>
 We're very excited to announce the launch of the official Bik Lab website (and we hope you like it too)!
 
 Our site is based on the amazing open source design templates developed by the labs of [Trevor Bedford] and [D. Allan Drummond]. We are forever indebted to Trevor and Allan for allowing reuse of their codebase. Our site is deployed using [GitHub Pages] and the source code is available on [GitHub]. Please feel free to reuse this code (making sure to cite the Bedford lab and Drummond lab as the original sources of the lab website template).

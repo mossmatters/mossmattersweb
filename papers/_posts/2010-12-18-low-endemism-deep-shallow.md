@@ -21,7 +21,7 @@ doi: 10.1186/1471-2148-10-389
 category: paper
 published: true
 peerreview: true
-review: false
+review: true
 tags: 
 ---
 {% include JB/setup %}

@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Coexisting cryptic species of the _Litoditis marina_ complex (Nematoda) show differential resource use and have distinct microbiomes with high intraspecific variability"
+title: "Coexisting cryptic species of the Litoditis marina complex (Nematoda) show differential resource use and have distinct microbiomes with high intraspecific variability"
 year: "2016"
 shortref: "Derycke <i>et al.</i> 2016 <i>Molec Ecol</i>"
 nickname: 

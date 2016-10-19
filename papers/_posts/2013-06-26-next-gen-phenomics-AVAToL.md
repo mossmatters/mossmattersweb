@@ -17,7 +17,7 @@ pmid: 23827969
 pmcid: PMC3697239
 <!-- f1000: http://f1000.com/prime/1030269
 figshare:  -->
-doi: 10.1371/currents.tol.085c713acafc8711b2ff7010a4b03733
+doi:
 category: paper
 published: true
 peerreview: true

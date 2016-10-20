@@ -9,9 +9,9 @@ tags: [18S rRNA, metagenomics, environmental sequencing, sediments, Gulf of Mexi
 ---
 {% include JB/setup %}
 
-## Genomic Responses to the Deepwater Horizon event and development of high-throughput biological assays for oil spills
+## Genomic responses to the Deepwater Horizon event and development of high-throughput biological assays for oil spills
 
-This is a collaborative project with Kelley Thomas at the University of New Hampshire, Paul Montagna at the Harte Research Institute for Gulf of Mexico Studies (Texas A&M), and Jon Norenburg at the Smithsonian National Museum of Natural History.
+This is a collaborative project with Kelley Thomas at the University of New Hampshire, [Paul Montagna] at the Harte Research Institute for Gulf of Mexico Studies (Texas A&M), and [Jon Norenburg] at the Smithsonian National Museum of Natural History.
 
 The overall aim of this project is to improve the response, mitigation, detection, characterization and remediation associated with oil spills and accompanying release of gas.
 
@@ -28,3 +28,6 @@ One of the most important goals of this project is training the next generation 
 The proposal leverages a set of pre- and post-spill samples from diverse, impacted benthic habitats, some of which have already received significant analysis. The group also brings significant cyberinfrastructure (databases) and advanced bioinformatics tools (PhyloSift, iPython workflows, data visualization software) that will be modified to support the specific goals of this proposal.
 
 Beyond the specific goals of this project, the methods and infrastructure being developed here will be applicable to virtually all geographic regions and ultimately beyond the marine environment. In addition, the large number of new genomes from key species in the benthic ecosystem, the archived DNA samples, as well as the metagenomic datasets of diverse environmental samples, will contribute to fundamental knowledge about the workings of these ecosystems that are so critical to the health of our environment.
+
+[Paul Montagna]: http://www.harteresearchinstitute.org/dr-paul-montagna
+[Jon Norenburg]: http://invertebrates.si.edu/staff/norenburg.cfm

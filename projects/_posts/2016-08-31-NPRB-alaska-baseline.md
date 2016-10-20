@@ -1,8 +1,8 @@
 ---
 layout: project
-title: "Phinch"
+title: "NPRB"
 tagline: "Genomic baseline surveys of Arctic meiofauna"
-handle: massive-assembly
+handle: nprb-alaska
 image: /assets/images/projects/alaska.svg
 category: project
 tags: [18S rRNA, metagenomics, environmental sequencing, sediments, Arctic]

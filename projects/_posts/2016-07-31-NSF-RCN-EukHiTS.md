@@ -3,7 +3,7 @@ layout: project
 title: "EukHiTS"
 tagline: "NSF Research Coordination Network EukHiTS"
 handle: rcn-eukhits
-image: /assets/images/projects/nsf2.tif
+image: /assets/images/projects/nsf2.png
 category: project
 tags: [metagenomics, environmental sequencing, RCN EukHiTS, NSF, microbial eukaryotes]
 ---

@@ -8,9 +8,11 @@ navorder: 1
 {% include JB/setup %}
 <div class="bigspacer"></div>
 <div class="construction">
+  <hr/>
   This page is a work in progress.
   
   <font size="3" color="black">Research in the Bik Lab is intensely interdisciplinary, using high-throughput sequencing and diverse –Omics approaches to explore broad patterns in microbial eukaryote assemblages (biodiversity and phylogeography, functional roles for microbial taxa, and the relationship between species and environmental parameters), with an emphasis on nematodes in marine sediments. My long-term research interests lie at the interface between biology and computer science, using biological questions and evolutionary hypotheses to drive the development and refinement –Omic approaches focused on marine microbial eukaryotes. Microbial eukaryotes (organisms <1mm, such as nematodes, fungi, protists, and other ‘minor’ metazoan phyla) are abundant and ubiquitous across every ecosystem on earth, performing key functions such as nutrient cycling and sediment stability in marine habitats. Yet, their unexplored diversity represents one of the major challenges in biology and currently limits our capacity to understand, mitigate and remediate the consequences of environmental change. Given this knowledge gap, my research vision spans three key areas: 1) "Is Everything Everywhere?": Testing seminal biodiversity hypotheses using –Omics, 2) “Systems Ecology” to investigate ecosystem function and species interactions, with an emphasis on microbial eukaryotes in marine sediments, and 3) Evolutionary phylogenomics and targeted genome sequencing of microbial eukaryotes as a complement to environmental –Omics. </font>
+	<hr/>
 </div>
 {% for project in site.categories.projects %}
 <div class='row'>
@@ -26,7 +28,7 @@ navorder: 1
   -->
   <div class='row'>
     <div class="col-md-4 paperbox">
-      <div class="smallhead media-heading"><a href="{{ project.url }}" class="off">{{ project.title }}</a></div>
+      
     </div>
     <div class='col-md-8'>
       {{ project.content }}

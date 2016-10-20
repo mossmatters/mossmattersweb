@@ -11,7 +11,7 @@ tags: [yeast, translation, selection]
 
 ## Phinch - [http://phinch.org]
 
-Hello! <img src="/assets/themes/lab/images/banner/phinch.png" alt="hi" class="inline">
+Hello! <img width=100 src="/assets/themes/lab/images/banner/phinch.png" alt="hi" class="inline">
 
 <img width=100 class="media-object pull-right" src="{{ paper.image }}"/>
 

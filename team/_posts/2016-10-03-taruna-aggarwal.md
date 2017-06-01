@@ -3,7 +3,7 @@ layout: member
 title: "Taruna Aggarwal"
 position: Assistant Specialist 
 email: taruna.aggarwal@ucr.edu
-twitter: Envirnomntality
+twitter: environmntality
 github: tarunaaggarwal
 image: /assets/images/team/taruna-aggarwal.jpg
 cv: /assets/pdfs/taruna-aggarwal-cv.pdf

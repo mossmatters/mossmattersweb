@@ -6,7 +6,7 @@ email: tiago.pereira@ucr.edu
 github: BikLab
 image: /assets/images/team/tiago-pereira.jpg
 cv: /assets/pdfs/tiago-pereira-cv.pdf
-alum: True
+
 ---
 
 

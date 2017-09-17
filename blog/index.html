@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Blog"
-description: "Bik Lab blog"
+description: "Johnson Lab blog"
 group: navigation
-navorder: 4
+navorder: 5
 ---
 {% include JB/setup %}
 
@@ -54,7 +54,7 @@ navorder: 4
 		<div class="col-md-8">		
 			<div style="height:5px;"></div>			
 			{% if post.image %}
-			<a href="{{ post.url }}"><img class="offset" src="{{ post.image }}"></a>
+			<a href="{{ post.url }}"><img class="offset" width=160 src="{{ post.image }}"></a>
 			{% endif %}
 			<div class="post">
 				{{ post.content }}

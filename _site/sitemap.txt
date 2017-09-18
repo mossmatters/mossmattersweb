@@ -22,6 +22,7 @@ mossmatters.com/tags
 mossmatters.com/assets/css/style.css
 mossmatters.com/Website%20Todo
 
+mossmatters.com/misc/Funding
 mossmatters.com/herbarium/Herbarium-Description
 mossmatters.com/misc/team/Collaborators
 mossmatters.com/team/darwin

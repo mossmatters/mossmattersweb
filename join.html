@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Bik Lab
+title: Join the Johnson Lab
 categories:
- - home
 ---
 {% include JB/setup %}
 {% for page in site.categories.misc %}
 {% if page.join %}
-	{% assign aboutpage = page %}
+	{% assign joinpage = page %}
 {% endif %}
 {% endfor %}
 

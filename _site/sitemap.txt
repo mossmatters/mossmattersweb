@@ -20,7 +20,9 @@ mossmatters.com/assets/themes/lab/less/style.less
 mossmatters.com/assets/themes/lab/css/style.css
 mossmatters.com/tags
 mossmatters.com/assets/css/style.css
+mossmatters.com/Website%20Todo
 
+mossmatters.com/herbarium/Herbarium-Description
 mossmatters.com/misc/team/Collaborators
 mossmatters.com/team/darwin
 mossmatters.com/team/bella
@@ -41,4 +43,3 @@ mossmatters.com/data/heat-aggregation-yeast-visualization
 mossmatters.com/misc/home/home
 mossmatters.com/misc/about
 mossmatters.com/papers/paper/sphagnum-niche
-mossmatters.com/protocols/protocol/DESS-preservative

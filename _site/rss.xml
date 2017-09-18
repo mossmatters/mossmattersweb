@@ -5,10 +5,23 @@
         <description>Mossmatters- Plant Phylogenetics - Matthew G. Johnson</description>
         <link>mossmatters.com</link>
         <link>mossmatters.com</link>
-        <lastBuildDate>2017-09-17T01:23:19-05:00</lastBuildDate>
-        <pubDate>2017-09-17T01:23:19-05:00</pubDate>
+        <lastBuildDate>2017-09-17T18:20:51-05:00</lastBuildDate>
+        <pubDate>2017-09-17T18:20:51-05:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Herbarium Description</title>
+                <description>&lt;h1 id=&quot;el-reed-herbarium-at-ttu&quot;&gt;E.L. Reed Herbarium at TTU&lt;/h1&gt;
+
+&lt;p&gt;The EL Reed Herbarium at Texas Tech University houses over 20,000 recorded vascular plant collections from the South Plains, West Texas, and other regions. The Herbarium also contains an estimated 10,000 unrecorded specimens, including specimens untouched since the 1920s.&lt;/p&gt;
+
+&lt;p&gt;Located on the 7th floor of the Biology building, the Herbarium is a resource for plant systematics and evolution. Dried, pressed plant specimens can be used to help researchers identify species and serve as a record of plant diversity. The collection can be used to track the occurrence of plant species across space and time. Recent advances in molecular systematics makes sampling these antique specimens for DNA sequencing feasible for the first time. Herbarium specimens are an underused resource for phylogenetics in plants, because older specimens may be all that is left of a difficult or impossible to collect species.&lt;/p&gt;
+</description>
+                <link>mossmatters.com/herbarium/Herbarium-Description</link>
+                <guid>mossmatters.com/herbarium/Herbarium-Description</guid>
+                <pubDate>2017-09-17T00:00:00-05:00</pubDate>
+        </item>
 
         <item>
                 <title>Collaborators</title>
@@ -1025,66 +1038,6 @@ Lubbock, TX 79409&lt;br /&gt;&lt;/p&gt;
                 <link>mossmatters.com/papers/paper/sphagnum-niche</link>
                 <guid>mossmatters.com/papers/paper/sphagnum-niche</guid>
                 <pubDate>2014-10-15T00:00:00-05:00</pubDate>
-        </item>
-
-        <item>
-                <title>DESS preservative for meiofuana</title>
-                <description>
-&lt;p&gt;&lt;br /&gt;
-We use the DESS solution for field sample collection, since it represents a useful preservative that maintains the integreity of both morphology and DNA in a single solution. DESS is an EDTA/DMSO solution saturated with NaCl; since it is a simple salt-buffered preservative, it it is stable at room temperature and is not classified as hazardous or “dangerous goods” (making it much easier to ship/transport vs. Formalin or Ethanol, in addition to the DNA preservation benefits). DESS was originally develped for nematode sampling, but we have also found it useful for preserving DNA/morphology in various other meiofauna (microbial metazoan) phyla.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/pdfs/607-SOW-DESS-recipe.pdf&quot;&gt;Click here to download this protocol as a PDF&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h1&gt;
-&lt;p&gt;DESS Ingredients:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;DMSO solution&lt;/li&gt;
-  &lt;li&gt;EDTA disodium salt&lt;/li&gt;
-  &lt;li&gt;20% NaOH solution&lt;/li&gt;
-  &lt;li&gt;25% HCl solution&lt;/li&gt;
-  &lt;li&gt;NaCl crystals&lt;/li&gt;
-  &lt;li&gt;Distilled water (DNA-free)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Equipment:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Heat &amp;amp; stir device with magnet&lt;/li&gt;
-  &lt;li&gt;1 &amp;amp; 2 litre glass beaker&lt;/li&gt;
-  &lt;li&gt;250 &amp;amp; 50ml measuring cylinders&lt;/li&gt;
-  &lt;li&gt;pH meter&lt;/li&gt;
-  &lt;li&gt;Balance (to 2 decimal points)&lt;/li&gt;
-  &lt;li&gt;Funnel&lt;/li&gt;
-  &lt;li&gt;Squeeze bottle&lt;/li&gt;
-  &lt;li&gt;Pippette&lt;/li&gt;
-  &lt;li&gt;Large dessert spoon (for adding NaCl)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;protocol&quot;&gt;Protocol&lt;/h1&gt;
-
-&lt;p&gt;D.E.S.S. recipe (for 1 litre):&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Measure out 93.06g of EDTA disodium salt (Formula weight 372.24g) – for a 0.25Mol soln. Place a magnet in the glass beaker and place on the heat &amp;amp; stir device. Add 200ml of distilled water to the beaker, set the temperature for 30C and the magnet to stir. Add the EDTA salt to the beaker. N.B. for EDTA salt with a different FW you will need to recalculate.&lt;/li&gt;
-  &lt;li&gt;The EDTA salt solution will be in the region of 3-4pH. Quickly add 60ml of NaOH; the alkalinity will peak at over 13 but steady off at a pH of about 9 as the EDTA dissolves. Raising the alkalinity quickly will assist in dissolving of the EDTA salt as does heating to 30C.&lt;/li&gt;
-  &lt;li&gt;Once the EDTA salt is dissolved, reduce the pH to 7.5 using about 20ml of HCl (adjust with pipette near the end) and top the volume up to 800ml with distilled water.&lt;/li&gt;
-  &lt;li&gt;Make up 20% DMSO by adding 40ml of DMSO to 160ml of distilled water (*note that the measuring cylinder will warm due to a chemical reaction), add to the beaker and continue stirring.&lt;/li&gt;
-  &lt;li&gt;Transfer the solution to a 1 litre measuring cylinder and top up if necessary and transfer to a 2 litre beaker back on the heat and stir.&lt;/li&gt;
-  &lt;li&gt;Add NaCl crystals till saturation is achieved; at least a centimetre of undissolved salt should be sitting on the bottom of the beaker to ensure this. Pour the solution into a container through a 45 micron sieve leaving most of the un-dissolved salt crystals in the beaker.&lt;/li&gt;
-  &lt;li&gt;Rinse all equipment into the D.E.S.S. waste bottle and rinse/wash thoroughly.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Protocol originally developed by Margaret Packer at the Natural History Museum, London (2007)&lt;/p&gt;
-
-&lt;p&gt;Recipe adapted from Yoder et al. (2006	), &lt;a href=&quot;http://booksandjournals.brillonline.com/content/journals/10.1163/156854106778493448&quot;&gt;DESS: A versatile solution for preserving morphology and extractable DNA of nematodes&lt;/a&gt;, &lt;em&gt;Nematology&lt;/em&gt;, 8(3) 367-376.&lt;/p&gt;
-
-</description>
-                <link>mossmatters.com/protocols/protocol/DESS-preservative</link>
-                <guid>mossmatters.com/protocols/protocol/DESS-preservative</guid>
-                <pubDate>2007-11-17T00:00:00-06:00</pubDate>
         </item>
 
 

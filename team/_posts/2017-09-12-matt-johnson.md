@@ -8,7 +8,7 @@ twitter: mossmatters
 github: mossmatters
 scholar: Kg-ypBwAAAAJ
 image: /assets/images/team/matt-johnson.jpg
-cv: /pdfs/team/matt-johnson-cv.pdf
+cv: /assets/pdfs/team/matt-johnson-cv.pdf
 alum: false
 ---
 

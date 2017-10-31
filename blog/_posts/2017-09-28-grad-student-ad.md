@@ -19,9 +19,9 @@ The Johnson Lab at Texas Tech University is looking for Ph.D. or Masters student
 
 We are especially interested in students who would like to employ herbarium specimens in their research. The E.L. Reed Herbarium in the Biological Sciences building contains 20,000 plant specimens including an important collection of the vascular plants of West Texas. Students interested in bioinformatics, genomics, and data visualization are also encouraged to apply. More information about the Johnson lab can be found at: www.mossmatters.com
 
-Requirements: (1) Bachelor's degree in biological or computer sciences or related field; (2) interest in integrating wet lab, field work, and computational skills; (3) ability to work both independently and collaboratively; and (4) Effective communication skills, necessary for both teaching and for sharing results through papers and presentations at scientific meetings. For Ph.D. applicants, prior research experience is preferred but not required.
+Requirements: (1) Bachelor's degree in biological or computer sciences or related field; (2) interest in integrating wet lab, field work, and computational skills; (3) ability to work both independently and collaboratively; and (4) effective communication skills, necessary for both teaching and for sharing results through papers and presentations at scientific meetings. For Ph.D. applicants, prior research experience is preferred but not required.
 
-The lab has financial support for multiple students through a combination of research and teaching assistantships, including summer support. Interested students should first contact Matt Johnson at matt[DOT]johnson[AT]ttu[DOT]edu
+The lab has financial support for multiple students through a combination of research and teaching assistantships, including summer support. Interested students should first contact Matt Johnson at matt[DOT]johnson[AT]ttu[DOT]edu . 
 
 *Deadline for applications* The Texas Tech Biological Sciences Department has rolling admissions, but students who wish to be considered for scholarships or fellowships must apply by January 15, 2018 for enrollment in Fall 2018.
 

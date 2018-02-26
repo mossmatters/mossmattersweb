@@ -120,7 +120,7 @@ a.off {
 	font-size: ceil($font-size-base*1.2);
 }
 
-@media all and (max-width: 800) {
+@media all and (max-width: 1000) {
 	.member-name {
 		font-size: $font-size-base;
 	}

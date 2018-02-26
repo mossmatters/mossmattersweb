@@ -52,7 +52,7 @@ a.off { color: inherit; border-bottom: none; }
 
 .member-name { font-size: 20px; }
 
-@media all and (max-width: 800) { .member-name { font-size: 16px; } }
+@media all and (max-width: 1000) { .member-name { font-size: 16px; } }
 .construction { width: 80%; margin-left: auto; margin-right: auto; color: #880000; font-size: 32px; }
 
 term { font-style: italic; }

@@ -20,10 +20,10 @@ navorder: 2
 <div class="hugespacer"></div>
 {% for member in site.categories.team reversed %}
 	{% if member.alum == false %}
-			<div class="col-sm-4 memberbox">
+			<div class="col-sm-5 memberbox">
 				<div class="media">
-	  				<a class="pull-left" href="{{ member.url }}">
-	    				<img class="media-object member-photo" src="{{ member.image }}">
+	  				<a class="pull-right" href="{{ member.url }}">
+	    				<img class="media-object member-photo" src="{{ member.image }}"><br>
 	  				</a>
 	 			 	<div class="media-body">
 	    				<div class="head media-heading member-name"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>

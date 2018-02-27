@@ -2,6 +2,7 @@
   <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
 </div>
 
+
 {% for member in site.categories.team %}
   {% if member.handle == page.author_handle %}
     {% assign author = member %}
@@ -30,10 +31,12 @@
         </div>
     </div>
   </div>
+
   <div class="col-md-10">
     <div class="bigspacer"></div>
     <div class="glyphbox note"> <!-- DAD: what is this--> 
       <div class="content">
+
         {{ content }}
       </div>
     </div>

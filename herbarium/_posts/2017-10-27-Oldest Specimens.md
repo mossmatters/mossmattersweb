@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Oldest Specimens
 categories:
  - herbarium

@@ -8,9 +8,9 @@ homepage: true
 
 # E.L. Reed Herbarium at TTU
 
-| ![My helpful screenshot](/assets/images/herbarium/herbarium_cabinets.jpg){:class="img-responsive"}{:class="img-responsive"} | ![My helpful screenshot](/assets/images/herbarium/herbarium_prep_space.jpg){:class="img-responsive"}
+| ![My helpful screenshot](/assets/images/herbarium/new_prep_space.jpg){:class="img-responsive"}{:class="img-responsive"} | ![My helpful screenshot](/assets/images/herbarium/new_imaging_setup.jpg){:class="img-responsive"}
 |:--: |:--:| 
-| *Herbarium Cabinets* | *Specimen Prep Space*|
+| *Herbarium Prep Space* | *Imaging Station*|
 
    
 

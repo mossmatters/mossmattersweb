@@ -20,6 +20,6 @@ This week, undergraduates Zach and Lauren began testing a protocol to efficientl
 | ![](/assets/images/herbarium/team_stomata.jpg){:class="img-responsive"}{:class="img-responsive"} | ![](/assets/images/herbarium/closeup_nailpolish.jpg){:class="img-responsive"}
 |:--: |:--:| 
 | *Madeline, Yanni, and Zach paint nail polish on herbarium specimens* | *Closeup of nail polish on underside of leaf*|
-| ![](/assets/images/herbarium/lauren_stomata.jpg){:class="img-responsive"}{:class="img-responsive"} | ![](/assets/images/herbarium/first_stomata.jpg){:class="img-responsive"}
+| ![](/assets/images/herbarium/lauren_stomata.jpg){:class="img-responsive"}{:class="img-responsive"} | ![](/assets/images/herbarium/stomata_image.jpg){:class="img-responsive"}
 |:--: |:--:| 
 | *Lauren examines stomata under the microscope* | *Impression of stomata at 10x magnification*|

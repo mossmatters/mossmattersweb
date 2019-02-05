@@ -17,7 +17,7 @@ Herbaria are underutilized resources for plant research, especially in phylogene
 
 The ability to reliably use dried plant material for DNA extraction is one of the most important advantages of targeted sequencing. Because the DNA is used in shotgun sequencing library preparation, degradation of DNA to small fragment sizes does not prohibit sequence recovery! In some instances, we have been able to recover 400+ nuclear genes from a 100-year-old herbarium specimen, even though PCR-based methods failed for the same DNA extraction.
 
-In our lab, we have teamed up with the PAFTOL project at Royal Botanical Gardens, Kew to produce a targeted sequencing kit that will work with any angiosperm! We aim to use more than 350 nuclear protein-coding genes to assess:
+In our lab, we have teamed up with the [PAFTOL project at Royal Botanical Gardens, Kew](https://www.kew.org/science/who-we-are-and-what-we-do/strategic-outputs-2020/plant-and-fungal-trees-life) to produce a targeted sequencing kit that will work with any angiosperm! We aim to use more than 350 nuclear protein-coding genes to assess:
 
 1. How does age and method of preservation affect sequence recovery?
 2. What is the level of sequence variation within genera at these markers?
@@ -25,4 +25,6 @@ In our lab, we have teamed up with the PAFTOL project at Royal Botanical Gardens
 
 At Texas Tech, we also aim to characterize the genetic diversity of species native to West Texas and surrounding areas using local collections from the early 20th century.
 
-Image: Specimen of *Portulaca pilosa* (Portulaceae) collected on the campus of what was then Texas Techological College in 1925-- the oldest specimen recorded in the herbarium! 
+For more information about the Angiosperms353 kit, [see our paper in *Systematic Biology*](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy086/5237557). The kit is [available for purchase from Arbor Biosciences](https://arborbiosci.com/products/mybaits-plant-angiosperms/). 
+
+Image: Specimen of *Portulaca pilosa* (Portulaceae) collected on the campus of what was then Texas Techological College in 1925! 

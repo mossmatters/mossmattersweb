@@ -7,7 +7,7 @@ year: 2018
 shortref: Medina et al. 2018. MPE.
 journal: "Molecular Phylogenetics and Evolution"
 doi: 10.1016/j.ympev.2017.12.002
-pdf: /assets/pdfs/papers/johnson-hybpiper.pdf
+pdf: /assets/pdfs/papers/medina_funariaceae_organellar.pdf
 volume: 120
 issue:
 pages: 240-247

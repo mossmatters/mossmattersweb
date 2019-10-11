@@ -22,7 +22,7 @@ Georeferencing is the process of adding latitude, longitude, and measurement unc
 
 and searching on a map for this location. There are automated tools for identifying approximate location, but these can be fooled by different ways of interpreting the locality data. Unfortunately, this resulte in a lot of bad georeferencing data for the TTC herbarium. For example, here is a map of all specimens that are supposed to be in Lubbock County, Texas based on label transcription:
 
-![](/assets/images/protocols/lubbock_map.png){:class="img-responsive"}
+![](/assets/images/protocols/lubbock_centroid.png){:class="img-responsive"}
 
 This poses a problem when our data is aggregated with other herbarium data and a researcher wants to know about the range of a species. We've received comments such as "Could you check this specimen? It would be the furthest east it's ever been recorded...." Our task is to fix all of the coordinates to reduce these errors.
 

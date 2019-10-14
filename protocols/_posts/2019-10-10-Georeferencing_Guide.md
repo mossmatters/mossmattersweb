@@ -116,5 +116,40 @@ When you are done reviewing the georeferencing for this specimen, you also need 
 
 ## Examples
 
-Should we put some examples here to show some standard and non-standard solutions? Ideas for what to put?
+Here are some examples of using different tools to identify the correct location
+
+### Using Old Maps 
+
+Here is the locality string for a specimen from Rusk County, Texas:
+
+> sandy soil of roadside on st.hwy. 26; 3.5 mi. n. of henderson
+
+The current map of Henderson, TX does not show any state highway 26:
+
+![](/assets/images/protocols/googlemap.png){:class="img-responsive"}
+
+Geolocate used 3.5 miles north (by air) from Henderson, with a large uncertainty bubble.
+
+However, if we use a map from around the same time as the specimen (1966), we see a different answer:
+
+![](/assets/images/protocols/oldmap.png){:class="img-responsive"}
+
+It appears that state highway 26 has now been re-assigned to US Hwy 259!
+
+
+
+### Using the Measuring Tool
+
+Continuing with the above example, we now need to measure 3.5 miles along this road, north of town.
+Click on the Measure tool to pick a more specific point. 
+Each time you click it will continue the measurement, so you can follow the road distance.
+
+![](/assets/images/protocols/measuring.png){:class="img-responsive"}
+
+You will need to switch back to Place Marker to update the coordinates.
+Don't forget to change the uncertainty bubble!
+
+
+
+
 

@@ -5,6 +5,7 @@ position: Lab Technician
 handle: haleyhale
 email: haley.hale@ttu.edu
 image: /assets/images/team/haley-hale.jpg
+github: halebilly
 alum: false
 ---
 

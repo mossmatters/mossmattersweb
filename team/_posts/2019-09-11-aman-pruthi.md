@@ -5,6 +5,9 @@ position: M.S. Student
 handle: amanpruthi
 email: aman.pruthi@ttu.edu
 image: /assets/images/team/aman-pruthi.jpg
+twitter: Aman_Pruthi_
+github: amanpruthi15
+cv: /assets/pdfs/team/aman-pruthi-cv.pdf
 alum: false
 ---
 

@@ -6,6 +6,7 @@ handle: haleyhale
 email: haley.hale@ttu.edu
 image: /assets/images/team/haley-hale.jpg
 github: halebilly
+twitter: thehaleofit
 alum: false
 ---
 

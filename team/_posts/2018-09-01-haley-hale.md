@@ -7,6 +7,7 @@ email: haley.hale@ttu.edu
 image: /assets/images/team/haley-hale.jpg
 github: halebilly
 twitter: thehaleofit
+cv: /assets/pdfs/team/Hale_July2020.pdf
 alum: false
 ---
 

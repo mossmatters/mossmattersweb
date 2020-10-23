@@ -7,7 +7,7 @@ homepage: false
 author_handle: mossmatters
 ---
 
-#Reducing Target Capture Costs
+# Reducing Target Capture Costs
 
 A new lab milestone! Lab Manager [Haley Hale]({{ site.baseurl }}{% link team/_posts/2018-09-01-haley-hale.md %}) led a paper describing our protocol modifications for target capture in non-model plant species. In collaboration with [Elliot Gardner](https://scholar.google.com/citations?user=MZCsvVsAAAAJ&hl=en) (Chicago Botanic Gardens, Case Western University), Juan Viruel [(Royal Botanic Gardens, Kew)](https://orcid.org/0000-0001-5658-8411), and [Lisa Pokorny (Royal Botanic Gardens, Kew)](https://www.researchgate.net/profile/Lisa_Pokorny), we collected our experience with high-throughput target capture to make recommendations for researchers. 
 

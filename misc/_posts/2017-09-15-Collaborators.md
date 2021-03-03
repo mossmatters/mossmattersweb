@@ -13,6 +13,11 @@ collaborators: true
 [Rafael Medina](http://www.rafamedina.com/), Augustana College<br>
 [Yang Liu](https://sites.google.com/site/yangliubryo/), Fairy Lake Botanical Garden
 
+# Bryum USGA Project
+
+* [Lloyd Stark](https://www.unlv.edu/people/lloyd-stark), University of Nevada at Las Vegas
+* [Zane Raudenbush](https://scholar.google.com/citations?user=4NKLDBwAAAAJ&hl=en), Davey Tree Expert Company
+
 # [Landscapes of Linalool](http://onagmoth.org/)
 
 Chicago Botanic Garden 

@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Madeline Slimp
-position: Undergraduate Research Scholar
+position: Honors Undergraduate Research Scholar
 handle: mslimp
 email: madeline.slimp@ttu.edu
 image: /assets/images/team/madeline-slimp.jpg

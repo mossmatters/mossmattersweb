@@ -3,7 +3,7 @@
 # permalink: /:categories/:year/:month/:day/:title 
 permalink: /:categories/:title.html 
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".sublime-project", ".sublime-workspace"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".sublime-project", ".sublime-workspace","vendor"]
 highlighter: rouge
 
 markdown: kramdown
@@ -25,6 +25,7 @@ author :
   email : matt.johnson@ttu.edu
   github : mossmatters
   twitter : mossmatters
+  linkedin :
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed

@@ -6,11 +6,11 @@ authors: M. Slimp, L. Williams, H. Hale, and M.G. Johnson
 year: 2020
 shortref: Slimp et al. 2020
 journal: "Applications in Plant Sciences"
-doi: 10.1101/2020.10.11.335174v1
-github: 
+doi: 10.1002/aps3.11419
+github: lindsawi/HybSeq-SNP-Extraction
 category: paper
 published: true
-peerreview: false
+peerreview: true
 review: false
 
 ---

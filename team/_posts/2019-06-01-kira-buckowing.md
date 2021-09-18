@@ -4,7 +4,7 @@ title: Kira Buckowing
 position: Master's Student
 handle: kbuckowi
 image: /assets/images/team/kira-buckowing.jpeg
-alum: false
+alum: true
 github: kirabuckowing
 linkedin: https://www.linkedin.com/in/kira-buckowing/
 ---

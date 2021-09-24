@@ -11,7 +11,7 @@ author_handle: yannichen
 
 ![](/assets/images/blog/yanni_grassland.jpeg){:class="img-responsive"}
 
-We are pleased to announce that Ph.D. Candidate Yanni Chen has received a research grant from the Native Plant Society of Texas, for her project titled: **"Ecoregion Variation Impacts on Gene Expression Associated with Smoke-induced Germination in *Bouteloua gracilis*, Shortgrass Prairie Native Species"** 
+We are pleased to announce that Ph.D. Candidate Yanni Chen has received an Ann Miller Gonzalez Graduate Research Grant from the [Native Plant Society of Texas](https://npsot.org/wp/education/research-grants/), for her project titled: **"Ecoregion Variation Impacts on Gene Expression Associated with Smoke-induced Germination in *Bouteloua gracilis*, Shortgrass Prairie Native Species"** 
 
 
 *Bouteloua gracilis* (blue grama) is a grass native to Texas and plays an important role in cattle grazing, landscape construction, and shortgrass prairie restoration. Smoke, as a low cost efficient seed dormancy breaking treatment, has proven its effectiveness on *B. gracilis*. However, the seed source of *B. 

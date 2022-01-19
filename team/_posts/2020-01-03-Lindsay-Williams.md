@@ -7,7 +7,7 @@ email: lindsay.williams@ttu.edu
 twitter: lindsawi
 github: lindsawi
 image: /assets/images/team/lindsay-williams.jpg
-alum: false
+alum: true
 ---
 
 Hello! My name is Lindsay and I am a PhD student in Biological Sciences at Texas Tech University. I have always been interested by plants, especially growing up on a farm and picking tomatoes for my dad. I will be working on target-capture sequencing and how we can use this technique to better resolve some of the issues occurring within the phylogeny of Funariaceae.
@@ -16,4 +16,6 @@ Previously, I obtained my master’s degree in Plant and Soil Science with a min
 
 I have always been interested in evolution and how “things” come to be, so I am very excited to be joining Dr. Johnson’s lab for my PhD and being presented with the opportunity to learn how to use the current bioinformatic tools used to create and assess plant phylogenies. 
 
-In my spare time you can probably find me playing with my five cats, playing Tennis, or bullet journaling!  
+In my spare time you can probably find me playing with my five cats, playing Tennis, or bullet journaling!
+
+*Lindsay left the lab in 2022 to pursue other interests*

@@ -10,7 +10,7 @@ published: true
 
 # Potential Graduate Student Projects
 
-If you are interested in joining the lab as a Ph.D. or Master's student, please look over the following projects. These are projects for which funding or data currently exists, and are also a way to help focus your research interest statement when applying to graduate school.
+If you are interested in joining the lab as a Ph.D. or Master's student, please look over the following projects. These are projects for which funding or data currently exists, and are also a way to help focus your research interest statement when applying to graduate school. These projects are not set in stone - I will work with all students to develop research questions matching their interests. 
 
 Use the [Google form here](https://forms.gle/H2c4uY4qF3a9sfnYA) to express your interest in joining the lab. I will review potential graduate student applications in October, and will invite the best candidates to apply to work in my lab before December 1, for fall admission the following year. You can find more information about applying at the [TTU Graduate School](https://www.depts.ttu.edu/gradschool/) and the [TTU Department of Biological Sciences](https://www.depts.ttu.edu/biology/academics/graduate/prospective-students/) websites.
 
@@ -28,7 +28,7 @@ Work on this project would involve bioinformatics, targeted DNA sequencing, and 
 
 ## Project 3: Phylogenetic Systematics in Flowering Plants
 
-The phylogenomic toolkit Angiosperms353 has made phylogeny inference from hundreds of genes tractable for flowering plant groups with few genomic resources. Targeted DNA sequencing with Angiosperms353 is especially well suited for herbarium specimens, as degraded DNA can be recovered, reducing the need for expensive field work. The E.L. Reed Herbarium is well suited to host graduate students interested in phylogenetic systematics of flowering plants of the southwest United States, especially Texas and New Mexico. Examples of possible taxa to work on include *Haplopappus*, *Cryptantha*, *Egrostris*, and *Bouteloua*.
+The phylogenomic toolkit Angiosperms353 has made phylogeny inference from hundreds of genes tractable for flowering plant groups with few genomic resources. Targeted DNA sequencing with Angiosperms353 is especially well suited for herbarium specimens, as degraded DNA can be recovered, reducing the need for expensive field work. The E.L. Reed Herbarium is well suited to host graduate students interested in phylogenetic systematics of flowering plants of the southwest United States, especially Texas and New Mexico. Examples of possible taxa to work on include *Haplopappus*, *Cryptantha*, *Egrostris*, and *Bouteloua*. Students would work with me to develop phylogenetic systematics projects.
 
 Work on this project would involve herbarium curation, bioinformatics, targeted DNA sequencing, and taxonomic revisions using phylogenetic and morphological data. Possible field work and/or travel to other herbaria to collect new specimens.
 

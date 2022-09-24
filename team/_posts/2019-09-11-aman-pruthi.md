@@ -8,8 +8,10 @@ image: /assets/images/team/aman-pruthi.jpg
 twitter: Aman_Pruthi_
 github: amanpruthi15
 cv: /assets/pdfs/team/aman-pruthi-cv.pdf
-alum: false
+alum: true
 ---
+
+*Aman graduated with his Master's in Biology in May 2022 and now works in industry*
 
 Hey, this is Aman Pruthi, a masters student in Biological Sciences at Texas Tech University under Dr. Johnson. I'm interested to know about the nature of Bryophyte (Moss) genomes, especially how they contribute insight to the evolution of small RNA in plants.
 

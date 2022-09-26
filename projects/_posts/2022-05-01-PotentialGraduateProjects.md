@@ -2,7 +2,7 @@
 layout: project
 title: "Potential Graduate Projects"
 author_handle: mossmatters
-image:
+image: /assets/images/projects/2022ad.png
 category: research
 homepage: false
 published: true

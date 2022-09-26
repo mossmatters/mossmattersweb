@@ -2,7 +2,7 @@
 layout: member
 title: James Ogbeide
 position: Undergraduate Researcher
-handle: madbullo
+handle: jamesogbeide
 email: 
 image: /assets/images/team/James-Ogbeide.jpeg
 alum: false

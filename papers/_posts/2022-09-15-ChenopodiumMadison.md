@@ -7,7 +7,7 @@ year: 2022
 shortref: Bullock and Cantley, 2022
 journal: "American Journal of Botany"
 doi: 10.1002/ajb2.16058
-github: chenyanniii/Traits4
+github:
 category: paper
 published: true
 peerreview: true

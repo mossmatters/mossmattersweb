@@ -4,6 +4,8 @@ title: Yanni Chen
 position: Ph.D. Student
 handle: yannichen
 email: yanni.chen@ttu.edu
+twitter: chenyanniii
+github: chenyanniii
 image: /assets/images/team/yanni-chen.jpg
 alum: false
 ---

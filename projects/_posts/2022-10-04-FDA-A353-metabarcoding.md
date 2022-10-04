@@ -2,7 +2,7 @@
 layout: project
 title: "FDA Angiosperms353 Metabarcoding"
 author_handle: mossmatters
-image: /assets/images/posts/Hybpiper_venn.png
+image: /assets/images/projects/Hybpiper_venn.png
 category: research
 homepage: false
 published: true

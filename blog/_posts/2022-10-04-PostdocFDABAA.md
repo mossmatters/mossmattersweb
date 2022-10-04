@@ -2,7 +2,7 @@
 layout: post
 title: "Post-Doc Opportunity"
 author_handle: mossmatters
-image: /assets/images/posts/HybPiper_Mixed.png
+image: /assets/images/projects/HybPiper_Mixed.png
 category: research
 homepage: false
 published: true

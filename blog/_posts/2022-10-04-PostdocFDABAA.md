@@ -3,12 +3,14 @@ layout: post
 title: "Post-Doc Opportunity"
 author_handle: mossmatters
 image: /assets/images/projects/HybPiper_Mixed.png
-category: research, jobs
+category: research
 homepage: false
 published: true
 ---
 
 # Post-Doctoral Research Position
+
+![](/assets/images/projects/HybPiper_Mixed.png){: width="400" }
 
 The Johnson Lab at Texas Tech University (Lubbock, Texas) is looking for a postdoctoral scholar to develop novel bioinformatics methods that extend targeted DNA sequencing in plants for used on mixed and unknown samples. This two-year full-time position is funded by a Broad Agency Agreement from the United States Food and Drug Association Center for Food Safety and Nutrition (FDA-CFSAN). The successful candidate will work with Dr. Matt Johnson (Assistant Professor, TTU Department of Biological Sciences) to write open-source bioinformatics software – specifically, new methods that leverage Angiosperms353 data to extend the potential of metagenomics in plants and in collaboration with Dr. Sara Handy (FDA-CFSAN). [You can find more information about the project here](/projects).
 

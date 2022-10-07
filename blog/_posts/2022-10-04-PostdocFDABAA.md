@@ -5,12 +5,12 @@ author_handle: mossmatters
 image: /assets/images/projects/HybPiper_Mixed.png
 category: research
 homepage: false
-published: false
+published: true
 ---
 
 # Post-Doctoral Research Position
 
-The Johnson Lab at Texas Tech University (Lubbock, Texas) is looking for a postdoctoral scholar to develop novel bioinformatics methods that extend targeted DNA sequencing in plants for used on mixed and unknown samples. This two-year full-time position is funded by a Broad Agency Agreement from the United States Food and Drug Association Center for Food Safety and Nutrition (FDA-CFSAN). The successful candidate will work with Dr. Matt Johnson (Assistant Professor, TTU Department of Biological Sciences) to write open-source bioinformatics software – specifically, new methods that leverage Angiosperms353 data to extend the potential of metagenomics in plants and in collaboration with Dr. Sara Handy (FDA-CFSAN). You can find more information about the project here.
+The Johnson Lab at Texas Tech University (Lubbock, Texas) is looking for a postdoctoral scholar to develop novel bioinformatics methods that extend targeted DNA sequencing in plants for used on mixed and unknown samples. This two-year full-time position is funded by a Broad Agency Agreement from the United States Food and Drug Association Center for Food Safety and Nutrition (FDA-CFSAN). The successful candidate will work with Dr. Matt Johnson (Assistant Professor, TTU Department of Biological Sciences) to write open-source bioinformatics software – specifically, new methods that leverage Angiosperms353 data to extend the potential of metagenomics in plants and in collaboration with Dr. Sara Handy (FDA-CFSAN). [You can find more information about the project here](/projects).
 
 Applicants should have a PhD in biology (botany, evolution, genetics), computer science (bioinformatics, data science, software development) or a related field, with the degree completed before starting the postdoc position. Ideal candidates will have experience working with DNA sequence data in one or more programming languages (Python, C++, R, Java, etc) demonstrated through scientific publication and/or published code (e.g. GitHub). Preferred candidates will have strong written and oral communication skills and will have demonstrated ability to work both independently and as part of a research team.
 
@@ -25,10 +25,11 @@ The Johnson Lab is dedicated to creating a diverse, equitable, and inclusive env
 
 ## How To Apply
 
-Applications should be made directly on the TTU website by following this link.
+**All candidates should e-mail Matt Johnson (matt.johnson@ttu.edu) to confirm their application.**
 
+Follow this link to the TTU employment page to apply for position 30800BR: [https://bit.ly/3T3lryZ](https://bit.ly/3T3lryZ)
 
-**All candidates should also e-mail me (matt.johnson@ttu.edu) to confirm their application.**
+**Note for current PhD students**: If you state that you do not yet have a PhD, you may get an e-mail stating you are not qualified. That's not true! All applicants who will have a PhD by the position start date will be considered.
 
 
 ## Requirements

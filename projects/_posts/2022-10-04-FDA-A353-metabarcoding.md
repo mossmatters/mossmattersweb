@@ -5,12 +5,12 @@ author_handle: mossmatters
 image: /assets/images/projects/Hybpiper_venn.png
 category: research
 homepage: false
-published: false
+published: true
 ---
 
 # New Funding from FDA-CFSAN
 
-In October 2022, we began new collaboration between the Johnson Lab at Texas Tech University and the US Food and Drug Administration Center for Food Safety and Nutrition (FDA-CFSAN). Our proposal "Improving detection of plant contaminants in mixed samples with targeted sequencing of 353 nuclear protein coding genes" is aimed at extending Angiosperms353 and HybPiper for use in mixed samples, such as potentially adulterated nutritional supplements. The project funds a post-doctoral researcher, sequencing costs and travel for two years. The abstract of this Broad Agency Agreement (BAA) is below.
+In October 2022, we began new collaboration between the Johnson Lab at Texas Tech University and the US Food and Drug Administration Center for Food Safety and Nutrition (FDA-CFSAN). Our proposal "Improving detection of plant contaminants in mixed samples with targeted sequencing of 353 nuclear protein coding genes" is aimed at extending Angiosperms353 and HybPiper for use in mixed samples, such as potentially adulterated nutritional supplements. The project funds a [post-doctoral researcher]({% post_url posts/2022-10-04-PostdocFDABAA %}), sequencing costs and travel for two years. The abstract of this Broad Agency Agreement (BAA) is below.
 
 ---
 

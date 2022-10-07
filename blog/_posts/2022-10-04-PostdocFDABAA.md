@@ -3,7 +3,7 @@ layout: post
 title: "Post-Doc Opportunity"
 author_handle: mossmatters
 image: /assets/images/projects/HybPiper_Mixed.png
-category: research
+category: research, jobs
 homepage: false
 published: true
 ---
@@ -36,9 +36,9 @@ Follow this link to the TTU employment page to apply for position 30800BR: [http
 - Curriculum Vitae
 - Names and contact information for 3 references
 - Statement of interest (no more than two pages) describing:
- - Your experience high-throughput DNA sequencing
- - Your skills in bioinformatics and computer programming 
- - Your commitment to working in a diverse, equitable, and inclusive environment
+	- Your experience high-throughput DNA sequencing
+	- Your skills in bioinformatics and computer programming 
+	- Your commitment to working in a diverse, equitable, and inclusive environment
 
 
 ## Compensation

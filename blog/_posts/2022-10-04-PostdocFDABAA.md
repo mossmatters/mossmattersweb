@@ -27,7 +27,7 @@ The Johnson Lab is dedicated to creating a diverse, equitable, and inclusive env
 
 ## How To Apply
 
-**All candidates should e-mail Matt Johnson (matt.johnson@ttu.edu) to confirm their application.**
+**All candidates should e-mail Matt Johnson (matt.johnson<span style="display:none">obfuscate</span>@ttu.edu) to confirm their application.**
 
 Follow this link to the TTU employment page to apply for position 30800BR: [https://bit.ly/3T3lryZ](https://bit.ly/3T3lryZ)
 

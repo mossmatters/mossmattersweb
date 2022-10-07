@@ -5,7 +5,7 @@ author_handle: mossmatters
 image: /assets/images/projects/HybPiper_Mixed.png
 category: research
 homepage: false
-published: true
+published: false
 ---
 
 # Post-Doctoral Research Position

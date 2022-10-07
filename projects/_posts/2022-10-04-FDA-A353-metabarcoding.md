@@ -5,7 +5,7 @@ author_handle: mossmatters
 image: /assets/images/projects/Hybpiper_venn.png
 category: research
 homepage: false
-published: true
+published: false
 ---
 
 # New Funding from FDA-CFSAN

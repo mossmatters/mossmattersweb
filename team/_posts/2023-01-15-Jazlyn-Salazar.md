@@ -4,7 +4,7 @@ title: Jazlyn Salazar
 position: TrUE Scholar
 handle: jazlynsalazar
 email: 
-image: /assets/images/team/Jazlyn-Salazar.jpg
+image: /assets/images/team/jazlyn-salazar.jpg
 alum: false
 ---
 

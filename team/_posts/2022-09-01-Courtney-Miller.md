@@ -4,7 +4,7 @@ title: Courtney Miller
 position: URS Honors Scholar
 handle: courtneymiller
 email: 
-image: /assets/images/team/courtney-miller.jpg
+image: /assets/images/team/courtney-miller-2.jpg
 alum: false
 ---
 

@@ -139,4 +139,12 @@ Due to training requirements needed to help undergraduate students get acquainte
 
 ## Post-Doctoral Researcher Expectations
 
-TBA
+Post-docs are often on a fixed time-scale and needs will vary based on career goals. I expect post-docs will:
+
+* Work towards publishing first-author papers related to the research project on which they are funded
+* Mentor graduate and undergraduate students 
+* Maintain protocols associated with their research (e.g. herbarium curation, computer resources) 
+* Communicate career goals with me so I can assist with networking and professional development
+* Assist with organizing lab events, including lab meetings.
+
+

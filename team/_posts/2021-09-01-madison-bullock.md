@@ -4,8 +4,10 @@ title: Madison Bullock
 position: PhD Student
 handle: madbullo
 email: madbullo@ttu.edu
-image: /assets/images/team/madison-bullock.jpg
+image: /assets/images/team/madison-bullock-2.jpeg
+cv: /assets/pdfs/team/madison-bullock-cv.pdf
 twitter: MadiRaiBullock
+github: madisonbullock
 alum: false
 ---
 

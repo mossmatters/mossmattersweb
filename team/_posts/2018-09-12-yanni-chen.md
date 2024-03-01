@@ -7,8 +7,11 @@ email: yanni.chen@ttu.edu
 twitter: chenyanniii
 github: chenyanniii
 image: /assets/images/team/yanni-chen.jpg
-alum: false
+alum: true
 ---
+
+*Yanni Chen completed her PhD in August 2023 and is currently a post-doctoral research associate at Notre Dame University, in the lab of Dr. [Nathan Swenson](http://www.swensonlab.com/people.html).*
+
 
 Hi, this is Yanni, a PhD student in Biological Sciences at Texas Tech University. I am always fascinated by plants, especially what strategies they have evolved to survive. In day to day research, I am working on plant evolution, emphasis on reproduction traits. In the long term, my research is expected to direct the biological practices in environmental protection and restoration.
  
@@ -17,3 +20,5 @@ Previously, I received my master’s degree advised by Robert Cox in the departm
 Now I am excited about working in Dr. Matt Johnson’s lab to learn plant phylogeny at community level and how possible to incorporate as an advanced tool in plant community conservation and restoration.
  
 At the spare time, I love all kinds of outdoor activities, swimming as much as I can, hiking and kayaking if there is any opportunity. Rock climbing at Rec center is also a great choice.
+
+

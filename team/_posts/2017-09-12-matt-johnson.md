@@ -1,13 +1,13 @@
 ---
 layout: member
 title: Matt Johnson
-position: Assistant Professor
+position: Associate Professor
 handle: mossmatters
 email: matt.johnson@ttu.edu
 twitter: mossmatters
 github: mossmatters
 scholar: Kg-ypBwAAAAJ
-image: /assets/images/team/matt-johnson.jpg
+image: /assets/images/team/matt-johnson-paddington.jpeg
 cv: /assets/pdfs/team/matt-johnson-cv.pdf
 alum: false
 ---

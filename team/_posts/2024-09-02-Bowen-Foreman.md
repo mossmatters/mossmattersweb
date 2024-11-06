@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Bowen Foreman
-position: Master's Student
+position: Undergraduate Researcher
 handle: bowenforeman
 email: 
 image: /assets/images/team/bowen-forman.jpeg

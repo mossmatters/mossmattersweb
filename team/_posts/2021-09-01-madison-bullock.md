@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Madison Bullock
-position: PhD Student
+position: PhD Candidate
 handle: madbullo
 email: madbullo@ttu.edu
 image: /assets/images/team/madison-bullock-2.jpeg

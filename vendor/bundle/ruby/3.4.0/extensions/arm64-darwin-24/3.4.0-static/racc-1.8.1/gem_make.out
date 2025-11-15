@@ -1,0 +1,19 @@
+current directory: /Users/joh97948/mossmattersweb/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/joh97948/.rubies/ruby-3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/joh97948/mossmattersweb/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251115-11259-lszygh sitelibdir\=./.gem.20251115-11259-lszygh clean
+
+current directory: /Users/joh97948/mossmattersweb/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251115-11259-lszygh sitelibdir\=./.gem.20251115-11259-lszygh
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: search path '/opt/homebrew/opt/gdbm/lib' not found
+
+current directory: /Users/joh97948/mossmattersweb/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251115-11259-lszygh sitelibdir\=./.gem.20251115-11259-lszygh install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251115-11259-lszygh/racc
+
+current directory: /Users/joh97948/mossmattersweb/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251115-11259-lszygh sitelibdir\=./.gem.20251115-11259-lszygh clean
